@@ -1,0 +1,174 @@
+[
+  {
+    "keyText": "blow up",
+    "valueText": "patlamak"
+  },
+  {
+    "keyText": "break down",
+    "valueText": "bozulmak, arıza yapmak"
+  },
+  {
+    "keyText": "break up",
+    "valueText": "ayrılmak"
+  },
+  {
+    "keyText": "call off",
+    "valueText": "iptal etmek"
+  },
+  {
+    "keyText": "carry on",
+    "valueText": "devam etmek"
+  },
+  {
+    "keyText": "catch up",
+    "valueText": "yakalamak"
+  },
+  {
+    "keyText": "cheer up",
+    "valueText": "neşelenmek"
+  },
+  {
+    "keyText": "come across",
+    "valueText": "karşılaşmak"
+  },
+  {
+    "keyText": "come up with",
+    "valueText": "çözüm yolu bulmak, önermek, (fikir) bulmak"
+  },
+  {
+    "keyText": "count on",
+    "valueText": "güvenmek, bel bağlamak"
+  },
+  {
+    "keyText": "figure out",
+    "valueText": "anlamak, çözmek"
+  },
+  {
+    "keyText": "fill in",
+    "valueText": "doldurmak"
+  },
+  {
+    "keyText": "get along",
+    "valueText": "geçinmek"
+  },
+  {
+    "keyText": "give up",
+    "valueText": "bırakmak, vazgeçmek"
+  },
+  {
+    "keyText": "go on",
+    "valueText": "devam etmek"
+  },
+  {
+    "keyText": "hang up",
+    "valueText": "telefonu kapatmak"
+  },
+  {
+    "keyText": "hold on",
+    "valueText": "Beklemek (tutmak)"
+  },
+  {
+    "keyText": "keep up with",
+    "valueText": "ayak uydurmak"
+  },
+  {
+    "keyText": "let down",
+    "valueText": "hayal kırıklığına uğratmak"
+  },
+  {
+    "keyText": "look after",
+    "valueText": "bakmak, ilgilenmek"
+  },
+  {
+    "keyText": "look for",
+    "valueText": "aramak"
+  },
+  {
+    "keyText": "look forward to",
+    "valueText": "dört gözle beklemek"
+  },
+  {
+    "keyText": "pass away",
+    "valueText": "vefat etmek"
+  },
+  {
+    "keyText": "pass out",
+    "valueText": "bayılmak"
+  },
+  {
+    "keyText": "pick up",
+    "valueText": "toplamak, yerden almak, kaldırmak"
+  },
+  {
+    "keyText": "pull over",
+    "valueText": "kenara çekmek"
+  },
+  {
+    "keyText": "put down",
+    "valueText": "yere indirmek"
+  },
+  {
+    "keyText": "put off",
+    "valueText": "ertelemek"
+  },
+  {
+    "keyText": "put on",
+    "valueText": "giymek"
+  },
+  {
+    "keyText": "put out",
+    "valueText": "söndürmek"
+  },
+  {
+    "keyText": "put up with",
+    "valueText": "dayanmak, katlanmak"
+  },
+  {
+    "keyText": "run out of",
+    "valueText": "bitmek, tükenmek"
+  },
+  {
+    "keyText": "take away",
+    "valueText": "alıp götürmek"
+  },
+  {
+    "keyText": "take off",
+    "valueText": "kıyafetini çıkarmak"
+  },
+  {
+    "keyText": "throw up",
+    "valueText": "kusmak"
+  },
+  {
+    "keyText": "try on",
+    "valueText": "giysi denemek"
+  },
+  {
+    "keyText": "turn down",
+    "valueText": "reddetmek"
+  },
+  {
+    "keyText": "turn off",
+    "valueText": "elektrikli cihazı kapatmak"
+  },
+  {
+    "keyText": "turn on",
+    "valueText": "elektrikli cihaz açmak"
+  },
+  {
+    "keyText": "turn up",
+    "valueText": "sesi açmak"
+  },
+  {
+    "keyText": "warm up",
+    "valueText": "ısınmak"
+  },
+  {
+    "keyText": "watch out",
+    "valueText": "dikkat etmek"
+  },
+  {
+    "keyText": "work out",
+    "valueText": "egzersiz yapmak"
+  }
+]
