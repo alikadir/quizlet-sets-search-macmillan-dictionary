@@ -1,15 +1,9 @@
-import { readRawJson, writeTransformedJson } from './lib/jsonFileService.js';
+import { fillInfo } from './lib/fillInfoService.js';
 import { settingLog } from './lib/logService.js';
-import { getWordInfo } from './lib/macmillanService.js';
 
 settingLog();
 
-const wordList = readRawJson('phrasalVerbs.json');
-
-for (const item of wordList) {
-  const wordInfo = await getWordInfo(item.keyText);
-  item.keyText = `${item.keyText}.\n\n${wordInfo.wordDescription}.\n\n${wordInfo.wordExampleSentence}`;
-}
-
-writeTransformedJson('phrasalVerbs.json', wordList);
-console.log(wordList);
+//await fillInfo('phrasalVerbs.json');
+//await fillInfo('a1-a2.json');
+//await fillInfo('b1-b2.json');
+await fillInfo('c1-c2.json');

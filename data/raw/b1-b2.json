@@ -1,0 +1,4002 @@
+[
+  {
+    "keyText": "quantity",
+    "valueText": "miktar"
+  },
+  {
+    "keyText": "expert",
+    "valueText": "uzman"
+  },
+  {
+    "keyText": "stir",
+    "valueText": "karıştırmak"
+  },
+  {
+    "keyText": "quality",
+    "valueText": "kalite"
+  },
+  {
+    "keyText": "declare",
+    "valueText": "bildirmek"
+  },
+  {
+    "keyText": "lightly",
+    "valueText": "hafifçe"
+  },
+  {
+    "keyText": "serious",
+    "valueText": "ciddi"
+  },
+  {
+    "keyText": "frequent",
+    "valueText": "sık"
+  },
+  {
+    "keyText": "therefore",
+    "valueText": "bu yüzden"
+  },
+  {
+    "keyText": "predict",
+    "valueText": "tahmin etmek"
+  },
+  {
+    "keyText": "conclusion",
+    "valueText": "sonuç"
+  },
+  {
+    "keyText": "spoil",
+    "valueText": "bozmak"
+  },
+  {
+    "keyText": "accent",
+    "valueText": "aksan"
+  },
+  {
+    "keyText": "complaint",
+    "valueText": "şikayet"
+  },
+  {
+    "keyText": "flour",
+    "valueText": "un"
+  },
+  {
+    "keyText": "attention",
+    "valueText": "dikkat"
+  },
+  {
+    "keyText": "admire",
+    "valueText": "hayran olmak"
+  },
+  {
+    "keyText": "regret",
+    "valueText": "pişman olmak"
+  },
+  {
+    "keyText": "wonder",
+    "valueText": "merak etmek"
+  },
+  {
+    "keyText": "society",
+    "valueText": "toplum"
+  },
+  {
+    "keyText": "essay",
+    "valueText": "makale"
+  },
+  {
+    "keyText": "goods",
+    "valueText": "ürün"
+  },
+  {
+    "keyText": "suppose",
+    "valueText": "farz etmek"
+  },
+  {
+    "keyText": "captain",
+    "valueText": "kaptan"
+  },
+  {
+    "keyText": "shine",
+    "valueText": "parlamak"
+  },
+  {
+    "keyText": "wrap",
+    "valueText": "sarmak"
+  },
+  {
+    "keyText": "continent",
+    "valueText": "kıta"
+  },
+  {
+    "keyText": "emergency",
+    "valueText": "acil durum"
+  },
+  {
+    "keyText": "strict",
+    "valueText": "katı"
+  },
+  {
+    "keyText": "manage",
+    "valueText": "başarmak"
+  },
+  {
+    "keyText": "silence",
+    "valueText": "sessizlik"
+  },
+  {
+    "keyText": "branch",
+    "valueText": "dal"
+  },
+  {
+    "keyText": "session",
+    "valueText": "dönem"
+  },
+  {
+    "keyText": "grateful",
+    "valueText": "minnettar"
+  },
+  {
+    "keyText": "alive",
+    "valueText": "sağ"
+  },
+  {
+    "keyText": "reduce",
+    "valueText": "azaltmak"
+  },
+  {
+    "keyText": "dull",
+    "valueText": "sıkıcı"
+  },
+  {
+    "keyText": "zone",
+    "valueText": "bölge"
+  },
+  {
+    "keyText": "mystery",
+    "valueText": "gizem"
+  },
+  {
+    "keyText": "enemy",
+    "valueText": "düşman"
+  },
+  {
+    "keyText": "arrange",
+    "valueText": "ayarlamak"
+  },
+  {
+    "keyText": "select",
+    "valueText": "seçmek"
+  },
+  {
+    "keyText": "taste",
+    "valueText": "tat"
+  },
+  {
+    "keyText": "deliver",
+    "valueText": "teslim etmek"
+  },
+  {
+    "keyText": "tin",
+    "valueText": "teneke kutu"
+  },
+  {
+    "keyText": "damage",
+    "valueText": "zarar vermek"
+  },
+  {
+    "keyText": "discover",
+    "valueText": "keşfetmek"
+  },
+  {
+    "keyText": "effect",
+    "valueText": "etki"
+  },
+  {
+    "keyText": "owe",
+    "valueText": "borçlu olmak"
+  },
+  {
+    "keyText": "despite",
+    "valueText": "rağmen"
+  },
+  {
+    "keyText": "awake",
+    "valueText": "uyanık"
+  },
+  {
+    "keyText": "review",
+    "valueText": "gözden geçirmek"
+  },
+  {
+    "keyText": "flag",
+    "valueText": "bayrak"
+  },
+  {
+    "keyText": "destroy",
+    "valueText": "yerle bir etmek"
+  },
+  {
+    "keyText": "plain",
+    "valueText": "sade"
+  },
+  {
+    "keyText": "sharp",
+    "valueText": "keskin"
+  },
+  {
+    "keyText": "advance",
+    "valueText": "ilerlemek"
+  },
+  {
+    "keyText": "forecast",
+    "valueText": "tahmin"
+  },
+  {
+    "keyText": "sensible",
+    "valueText": "mantıklı"
+  },
+  {
+    "keyText": "annual",
+    "valueText": "yıllık"
+  },
+  {
+    "keyText": "cotton",
+    "valueText": "pamuk"
+  },
+  {
+    "keyText": "drop",
+    "valueText": "düşürmek"
+  },
+  {
+    "keyText": "display",
+    "valueText": "sergilemek"
+  },
+  {
+    "keyText": "shoot",
+    "valueText": "ateş etmek"
+  },
+  {
+    "keyText": "disease",
+    "valueText": "hastalık"
+  },
+  {
+    "keyText": "aloud",
+    "valueText": "yüksek sesle"
+  },
+  {
+    "keyText": "particular",
+    "valueText": "özel"
+  },
+  {
+    "keyText": "waste",
+    "valueText": "israf etmek"
+  },
+  {
+    "keyText": "intend",
+    "valueText": "niyet etmek"
+  },
+  {
+    "keyText": "disappear",
+    "valueText": "kaybolmak"
+  },
+  {
+    "keyText": "freeze",
+    "valueText": "donmak"
+  },
+  {
+    "keyText": "ashamed",
+    "valueText": "utanmış"
+  },
+  {
+    "keyText": "mention",
+    "valueText": "bahsetmek"
+  },
+  {
+    "keyText": "individual",
+    "valueText": "birey"
+  },
+  {
+    "keyText": "behave",
+    "valueText": "davranmak"
+  },
+  {
+    "keyText": "gain",
+    "valueText": "kazanmak"
+  },
+  {
+    "keyText": "hole",
+    "valueText": "çukur"
+  },
+  {
+    "keyText": "continue",
+    "valueText": "devam etmek"
+  },
+  {
+    "keyText": "object",
+    "valueText": "nesne"
+  },
+  {
+    "keyText": "meanwhile",
+    "valueText": "bu arada"
+  },
+  {
+    "keyText": "item",
+    "valueText": "madde"
+  },
+  {
+    "keyText": "property",
+    "valueText": "mülk"
+  },
+  {
+    "keyText": "disagree",
+    "valueText": "fikre katılmamak"
+  },
+  {
+    "keyText": "elbow",
+    "valueText": "dirsek"
+  },
+  {
+    "keyText": "port",
+    "valueText": "liman"
+  },
+  {
+    "keyText": "lack",
+    "valueText": "eksiklik"
+  },
+  {
+    "keyText": "row",
+    "valueText": "sıra"
+  },
+  {
+    "keyText": "ability",
+    "valueText": "kabiliyet"
+  },
+  {
+    "keyText": "valley",
+    "valueText": "vadi"
+  },
+  {
+    "keyText": "solve",
+    "valueText": "çözmek"
+  },
+  {
+    "keyText": "convenient",
+    "valueText": "uygun"
+  },
+  {
+    "keyText": "feed",
+    "valueText": "beslemek"
+  },
+  {
+    "keyText": "sew",
+    "valueText": "dikmek"
+  },
+  {
+    "keyText": "secret",
+    "valueText": "sır"
+  },
+  {
+    "keyText": "giant",
+    "valueText": "dev"
+  },
+  {
+    "keyText": "steep",
+    "valueText": "dik"
+  },
+  {
+    "keyText": "agency",
+    "valueText": "acente"
+  },
+  {
+    "keyText": "excitement",
+    "valueText": "heyecan"
+  },
+  {
+    "keyText": "injure",
+    "valueText": "yaralamak"
+  },
+  {
+    "keyText": "load",
+    "valueText": "yük"
+  },
+  {
+    "keyText": "escape",
+    "valueText": "kaçmak"
+  },
+  {
+    "keyText": "forever",
+    "valueText": "sonsuza dek"
+  },
+  {
+    "keyText": "nowhere",
+    "valueText": "hiçbir yer"
+  },
+  {
+    "keyText": "mood",
+    "valueText": "ruh hali"
+  },
+  {
+    "keyText": "crash",
+    "valueText": "çarpmak"
+  },
+  {
+    "keyText": "fuel",
+    "valueText": "yakıt"
+  },
+  {
+    "keyText": "perform",
+    "valueText": "performans göstermek"
+  },
+  {
+    "keyText": "grab",
+    "valueText": "yakalamak"
+  },
+  {
+    "keyText": "sour",
+    "valueText": "ekşi"
+  },
+  {
+    "keyText": "calm",
+    "valueText": "sakinleştirmek"
+  },
+  {
+    "keyText": "value",
+    "valueText": "değer"
+  },
+  {
+    "keyText": "exact",
+    "valueText": "kesin"
+  },
+  {
+    "keyText": "attach",
+    "valueText": "eklemek"
+  },
+  {
+    "keyText": "landscape",
+    "valueText": "manzara"
+  },
+  {
+    "keyText": "shortly",
+    "valueText": "kısaca"
+  },
+  {
+    "keyText": "compare",
+    "valueText": "karşılaştırmak"
+  },
+  {
+    "keyText": "lively",
+    "valueText": "canlı"
+  },
+  {
+    "keyText": "local",
+    "valueText": "yerel"
+  },
+  {
+    "keyText": "convince",
+    "valueText": "ikna etmek"
+  },
+  {
+    "keyText": "attend",
+    "valueText": "katılmak"
+  },
+  {
+    "keyText": "opinion",
+    "valueText": "görüş"
+  },
+  {
+    "keyText": "efficient",
+    "valueText": "verimli"
+  },
+  {
+    "keyText": "mess",
+    "valueText": "dağınıklık"
+  },
+  {
+    "keyText": "explore",
+    "valueText": "keşfetmek"
+  },
+  {
+    "keyText": "length",
+    "valueText": "uzunluk"
+  },
+  {
+    "keyText": "handle",
+    "valueText": "başa çıkmak"
+  },
+  {
+    "keyText": "curious",
+    "valueText": "meraklı"
+  },
+  {
+    "keyText": "sight",
+    "valueText": "görme yeteneği"
+  },
+  {
+    "keyText": "account",
+    "valueText": "hesap"
+  },
+  {
+    "keyText": "base",
+    "valueText": "taban"
+  },
+  {
+    "keyText": "importance",
+    "valueText": "önem"
+  },
+  {
+    "keyText": "obvious",
+    "valueText": "aşikar"
+  },
+  {
+    "keyText": "within",
+    "valueText": "içinde"
+  },
+  {
+    "keyText": "hunt",
+    "valueText": "avlamak"
+  },
+  {
+    "keyText": "rather",
+    "valueText": "oldukça"
+  },
+  {
+    "keyText": "equal",
+    "valueText": "eşit"
+  },
+  {
+    "keyText": "period",
+    "valueText": "dönem"
+  },
+  {
+    "keyText": "revise",
+    "valueText": "gözden geçirmek"
+  },
+  {
+    "keyText": "solution",
+    "valueText": "çözüm"
+  },
+  {
+    "keyText": "pause",
+    "valueText": "duraklamak"
+  },
+  {
+    "keyText": "range",
+    "valueText": "aralık"
+  },
+  {
+    "keyText": "accompany",
+    "valueText": "eşlik etmek"
+  },
+  {
+    "keyText": "annoy",
+    "valueText": "kızdırmak"
+  },
+  {
+    "keyText": "palace",
+    "valueText": "saray"
+  },
+  {
+    "keyText": "silly",
+    "valueText": "aptal"
+  },
+  {
+    "keyText": "leaf",
+    "valueText": "yaprak"
+  },
+  {
+    "keyText": "rock",
+    "valueText": "kaya"
+  },
+  {
+    "keyText": "somehow",
+    "valueText": "bir şekilde"
+  },
+  {
+    "keyText": "respect",
+    "valueText": "saygı"
+  },
+  {
+    "keyText": "bunch",
+    "valueText": "demet"
+  },
+  {
+    "keyText": "basic",
+    "valueText": "temel"
+  },
+  {
+    "keyText": "thick",
+    "valueText": "kalın"
+  },
+  {
+    "keyText": "cruel",
+    "valueText": "acımasız"
+  },
+  {
+    "keyText": "battle",
+    "valueText": "savaş"
+  },
+  {
+    "keyText": "wing",
+    "valueText": "kanat"
+  },
+  {
+    "keyText": "confident",
+    "valueText": "kendinden emin"
+  },
+  {
+    "keyText": "pot",
+    "valueText": "demlik"
+  },
+  {
+    "keyText": "certain",
+    "valueText": "kesin"
+  },
+  {
+    "keyText": "relative",
+    "valueText": "akraba"
+  },
+  {
+    "keyText": "create",
+    "valueText": "yaratmak"
+  },
+  {
+    "keyText": "indeed",
+    "valueText": "gerçekten"
+  },
+  {
+    "keyText": "stream",
+    "valueText": "dere"
+  },
+  {
+    "keyText": "voice",
+    "valueText": "ses"
+  },
+  {
+    "keyText": "ruin",
+    "valueText": "mahvetmek"
+  },
+  {
+    "keyText": "broad",
+    "valueText": "geniş"
+  },
+  {
+    "keyText": "search",
+    "valueText": "aramak"
+  },
+  {
+    "keyText": "disabled",
+    "valueText": "engelli"
+  },
+  {
+    "keyText": "locate",
+    "valueText": "yerini bulmak"
+  },
+  {
+    "keyText": "essential",
+    "valueText": "esas"
+  },
+  {
+    "keyText": "tap",
+    "valueText": "hafifçe vurmak"
+  },
+  {
+    "keyText": "background",
+    "valueText": "arka plan"
+  },
+  {
+    "keyText": "bury",
+    "valueText": "gömmek"
+  },
+  {
+    "keyText": "peak",
+    "valueText": "zirve noktası"
+  },
+  {
+    "keyText": "pregnant",
+    "valueText": "hamile"
+  },
+  {
+    "keyText": "communicate",
+    "valueText": "haberleşmek"
+  },
+  {
+    "keyText": "poem",
+    "valueText": "şiir"
+  },
+  {
+    "keyText": "direct",
+    "valueText": "doğrudan"
+  },
+  {
+    "keyText": "raw",
+    "valueText": "çiğ"
+  },
+  {
+    "keyText": "rob",
+    "valueText": "soymak"
+  },
+  {
+    "keyText": "speech",
+    "valueText": "konuşma"
+  },
+  {
+    "keyText": "gentle",
+    "valueText": "nazik"
+  },
+  {
+    "keyText": "report",
+    "valueText": "ihbar etmek"
+  },
+  {
+    "keyText": "public",
+    "valueText": "halka açık"
+  },
+  {
+    "keyText": "argue",
+    "valueText": "tartışmak"
+  },
+  {
+    "keyText": "generation",
+    "valueText": "nesil"
+  },
+  {
+    "keyText": "custom",
+    "valueText": "gelenek"
+  },
+  {
+    "keyText": "common",
+    "valueText": "ortak"
+  },
+  {
+    "keyText": "proud",
+    "valueText": "gururlu"
+  },
+  {
+    "keyText": "apply",
+    "valueText": "başvurmak"
+  },
+  {
+    "keyText": "narrow",
+    "valueText": "dar"
+  },
+  {
+    "keyText": "unless",
+    "valueText": "-mediği sürece"
+  },
+  {
+    "keyText": "slip",
+    "valueText": "kaymak"
+  },
+  {
+    "keyText": "beat",
+    "valueText": "yenmek"
+  },
+  {
+    "keyText": "rude",
+    "valueText": "kaba"
+  },
+  {
+    "keyText": "accurate",
+    "valueText": "doğru"
+  },
+  {
+    "keyText": "edge",
+    "valueText": "kenar"
+  },
+  {
+    "keyText": "religion",
+    "valueText": "din"
+  },
+  {
+    "keyText": "duty",
+    "valueText": "görev"
+  },
+  {
+    "keyText": "hang",
+    "valueText": "asmak"
+  },
+  {
+    "keyText": "register",
+    "valueText": "kaydolmak"
+  },
+  {
+    "keyText": "chin",
+    "valueText": "çene"
+  },
+  {
+    "keyText": "friendship",
+    "valueText": "arkadaşlık"
+  },
+  {
+    "keyText": "candidate",
+    "valueText": "aday"
+  },
+  {
+    "keyText": "decrease",
+    "valueText": "azalmak"
+  },
+  {
+    "keyText": "pill",
+    "valueText": "hap"
+  },
+  {
+    "keyText": "van",
+    "valueText": "kamyonet"
+  },
+  {
+    "keyText": "crop",
+    "valueText": "mahsul"
+  },
+  {
+    "keyText": "law",
+    "valueText": "kanun"
+  },
+  {
+    "keyText": "awful",
+    "valueText": "berbat"
+  },
+  {
+    "keyText": "complain",
+    "valueText": "şikayet etmek"
+  },
+  {
+    "keyText": "ocean",
+    "valueText": "okyanus"
+  },
+  {
+    "keyText": "cottage",
+    "valueText": "kulübe"
+  },
+  {
+    "keyText": "anxious",
+    "valueText": "kaygılı"
+  },
+  {
+    "keyText": "via",
+    "valueText": "üzerinden"
+  },
+  {
+    "keyText": "clap",
+    "valueText": "alkışlamak"
+  },
+  {
+    "keyText": "ceremony",
+    "valueText": "tören"
+  },
+  {
+    "keyText": "although",
+    "valueText": "rağmen"
+  },
+  {
+    "keyText": "operate",
+    "valueText": "çalıştırmak"
+  },
+  {
+    "keyText": "stripe",
+    "valueText": "çizgi"
+  },
+  {
+    "keyText": "faucet",
+    "valueText": "musluk"
+  },
+  {
+    "keyText": "fever",
+    "valueText": "ateş"
+  },
+  {
+    "keyText": "persuade",
+    "valueText": "ikna etmek"
+  },
+  {
+    "keyText": "pure",
+    "valueText": "saf"
+  },
+  {
+    "keyText": "recommend",
+    "valueText": "tavsiye etmek"
+  },
+  {
+    "keyText": "tip",
+    "valueText": "bahşiş"
+  },
+  {
+    "keyText": "research",
+    "valueText": "araştırma yapmak"
+  },
+  {
+    "keyText": "contest",
+    "valueText": "yarışma"
+  },
+  {
+    "keyText": "extraordinary",
+    "valueText": "olağanüstü"
+  },
+  {
+    "keyText": "switch",
+    "valueText": "açmak"
+  },
+  {
+    "keyText": "prevent",
+    "valueText": "önlemek"
+  },
+  {
+    "keyText": "rescue",
+    "valueText": "kurtarmak"
+  },
+  {
+    "keyText": "pronounce",
+    "valueText": "telaffuz etmek"
+  },
+  {
+    "keyText": "hide",
+    "valueText": "saklamak"
+  },
+  {
+    "keyText": "coast",
+    "valueText": "sahil"
+  },
+  {
+    "keyText": "fold",
+    "valueText": "katlamak"
+  },
+  {
+    "keyText": "fasten",
+    "valueText": "bağlamak"
+  },
+  {
+    "keyText": "fee",
+    "valueText": "ücret"
+  },
+  {
+    "keyText": "wave",
+    "valueText": "dalga"
+  },
+  {
+    "keyText": "youth",
+    "valueText": "gençlik"
+  },
+  {
+    "keyText": "store",
+    "valueText": "depo"
+  },
+  {
+    "keyText": "benefit",
+    "valueText": "yarar"
+  },
+  {
+    "keyText": "trick",
+    "valueText": "hile"
+  },
+  {
+    "keyText": "transfer",
+    "valueText": "transfer etmek"
+  },
+  {
+    "keyText": "block",
+    "valueText": "engellemek"
+  },
+  {
+    "keyText": "divorce",
+    "valueText": "boşanmak"
+  },
+  {
+    "keyText": "firm",
+    "valueText": "sert"
+  },
+  {
+    "keyText": "limit",
+    "valueText": "sınırlamak"
+  },
+  {
+    "keyText": "challenge",
+    "valueText": "meydan okuma"
+  },
+  {
+    "keyText": "defend",
+    "valueText": "savunmak"
+  },
+  {
+    "keyText": "permit",
+    "valueText": "izin vermek"
+  },
+  {
+    "keyText": "bet",
+    "valueText": "bahse girmek"
+  },
+  {
+    "keyText": "environment",
+    "valueText": "çevre"
+  },
+  {
+    "keyText": "dozen",
+    "valueText": "düzine"
+  },
+  {
+    "keyText": "lawyer",
+    "valueText": "avukat"
+  },
+  {
+    "keyText": "operation",
+    "valueText": "ameliyat"
+  },
+  {
+    "keyText": "increase",
+    "valueText": "artış"
+  },
+  {
+    "keyText": "smell",
+    "valueText": "kokmak"
+  },
+  {
+    "keyText": "comment",
+    "valueText": "yorum"
+  },
+  {
+    "keyText": "weigh",
+    "valueText": "tartmak"
+  },
+  {
+    "keyText": "drag",
+    "valueText": "sürüklemek"
+  },
+  {
+    "keyText": "pleasure",
+    "valueText": "zevk"
+  },
+  {
+    "keyText": "step",
+    "valueText": "adım"
+  },
+  {
+    "keyText": "opportunity",
+    "valueText": "fırsat"
+  },
+  {
+    "keyText": "recent",
+    "valueText": "son günlerdeki"
+  },
+  {
+    "keyText": "nervous",
+    "valueText": "gergin"
+  },
+  {
+    "keyText": "truth",
+    "valueText": "doğru"
+  },
+  {
+    "keyText": "arrest",
+    "valueText": "tutuklamak"
+  },
+  {
+    "keyText": "charge",
+    "valueText": "suçlamak"
+  },
+  {
+    "keyText": "vote",
+    "valueText": "oy kullanmak"
+  },
+  {
+    "keyText": "retire",
+    "valueText": "emekli olmak"
+  },
+  {
+    "keyText": "flu",
+    "valueText": "grip"
+  },
+  {
+    "keyText": "distance",
+    "valueText": "mesafe"
+  },
+  {
+    "keyText": "breathe",
+    "valueText": "nefes almak"
+  },
+  {
+    "keyText": "section",
+    "valueText": "bölüm"
+  },
+  {
+    "keyText": "blow",
+    "valueText": "üflemek"
+  },
+  {
+    "keyText": "succeed",
+    "valueText": "başarmak"
+  },
+  {
+    "keyText": "altogether",
+    "valueText": "tamamen"
+  },
+  {
+    "keyText": "proper",
+    "valueText": "uygun"
+  },
+  {
+    "keyText": "description",
+    "valueText": "tasvir"
+  },
+  {
+    "keyText": "trouble",
+    "valueText": "sorun"
+  },
+  {
+    "keyText": "author",
+    "valueText": "yazar"
+  },
+  {
+    "keyText": "pile",
+    "valueText": "yığın"
+  },
+  {
+    "keyText": "average",
+    "valueText": "ortalama"
+  },
+  {
+    "keyText": "afford",
+    "valueText": "maddi gücü yetmek"
+  },
+  {
+    "keyText": "profession",
+    "valueText": "meslek"
+  },
+  {
+    "keyText": "relax",
+    "valueText": "rahatlamak"
+  },
+  {
+    "keyText": "involve",
+    "valueText": "içermek"
+  },
+  {
+    "keyText": "concentrate",
+    "valueText": "yoğunlaşmak"
+  },
+  {
+    "keyText": "publish",
+    "valueText": "yayınlamak"
+  },
+  {
+    "keyText": "entertain",
+    "valueText": "eğlendirmek"
+  },
+  {
+    "keyText": "encourage",
+    "valueText": "teşvik etmek"
+  },
+  {
+    "keyText": "demand",
+    "valueText": "talep etmek"
+  },
+  {
+    "keyText": "sum",
+    "valueText": "toplam"
+  },
+  {
+    "keyText": "smooth",
+    "valueText": "pürüzsüz"
+  },
+  {
+    "keyText": "produce",
+    "valueText": "üretmek"
+  },
+  {
+    "keyText": "height",
+    "valueText": "boy"
+  },
+  {
+    "keyText": "officer",
+    "valueText": "memur"
+  },
+  {
+    "keyText": "advertise",
+    "valueText": "reklamını yapmak"
+  },
+  {
+    "keyText": "regard",
+    "valueText": "kabul etmek"
+  },
+  {
+    "keyText": "defeat",
+    "valueText": "yenmek"
+  },
+  {
+    "keyText": "wage",
+    "valueText": "maaş"
+  },
+  {
+    "keyText": "fix",
+    "valueText": "tamir etmek"
+  },
+  {
+    "keyText": "approve",
+    "valueText": "uygun bulmak"
+  },
+  {
+    "keyText": "depend",
+    "valueText": "bağlı olmak"
+  },
+  {
+    "keyText": "reward",
+    "valueText": "ödül"
+  },
+  {
+    "keyText": "fault",
+    "valueText": "hata"
+  },
+  {
+    "keyText": "ancient",
+    "valueText": "eski"
+  },
+  {
+    "keyText": "shadow",
+    "valueText": "gölge"
+  },
+  {
+    "keyText": "diagram",
+    "valueText": "grafik"
+  },
+  {
+    "keyText": "brief",
+    "valueText": "kısa"
+  },
+  {
+    "keyText": "previous",
+    "valueText": "önceki"
+  },
+  {
+    "keyText": "support",
+    "valueText": "desteklemek"
+  },
+  {
+    "keyText": "roll",
+    "valueText": "yuvarlanmak"
+  },
+  {
+    "keyText": "army",
+    "valueText": "ordu"
+  },
+  {
+    "keyText": "attract",
+    "valueText": "cezbetmek"
+  },
+  {
+    "keyText": "fear",
+    "valueText": "korku"
+  },
+  {
+    "keyText": "asleep",
+    "valueText": "uykuda"
+  },
+  {
+    "keyText": "interval",
+    "valueText": "zaman aralığı"
+  },
+  {
+    "keyText": "decision",
+    "valueText": "karar"
+  },
+  {
+    "keyText": "criminal",
+    "valueText": "suçlu"
+  },
+  {
+    "keyText": "organize",
+    "valueText": "düzenlemek"
+  },
+  {
+    "keyText": "sleeve",
+    "valueText": "elbise kolu"
+  },
+  {
+    "keyText": "burn",
+    "valueText": "yakmak"
+  },
+  {
+    "keyText": "deaf",
+    "valueText": "sağır"
+  },
+  {
+    "keyText": "dig",
+    "valueText": "kazmak"
+  },
+  {
+    "keyText": "reply",
+    "valueText": "cevaplamak"
+  },
+  {
+    "keyText": "ingredient",
+    "valueText": "karışımdaki malzeme"
+  },
+  {
+    "keyText": "pattern",
+    "valueText": "desen"
+  },
+  {
+    "keyText": "explode",
+    "valueText": "patlamak"
+  },
+  {
+    "keyText": "attitude",
+    "valueText": "tutum"
+  },
+  {
+    "keyText": "skill",
+    "valueText": "beceri"
+  },
+  {
+    "keyText": "departure",
+    "valueText": "kalkış"
+  },
+  {
+    "keyText": "fancy",
+    "valueText": "süslü"
+  },
+  {
+    "keyText": "breath",
+    "valueText": "nefes"
+  },
+  {
+    "keyText": "shake",
+    "valueText": "sallamak"
+  },
+  {
+    "keyText": "aim",
+    "valueText": "amaç"
+  },
+  {
+    "keyText": "employ",
+    "valueText": "çalıştırmak"
+  },
+  {
+    "keyText": "progress",
+    "valueText": "ilerleme"
+  },
+  {
+    "keyText": "patient",
+    "valueText": "hasta"
+  },
+  {
+    "keyText": "keen",
+    "valueText": "hevesli"
+  },
+  {
+    "keyText": "loose",
+    "valueText": "bol"
+  },
+  {
+    "keyText": "generous",
+    "valueText": "cömert"
+  },
+  {
+    "keyText": "resort",
+    "valueText": "başvurmak"
+  },
+  {
+    "keyText": "product",
+    "valueText": "ürün"
+  },
+  {
+    "keyText": "contract",
+    "valueText": "sözleşme"
+  },
+  {
+    "keyText": "knit",
+    "valueText": "örgü örmek"
+  },
+  {
+    "keyText": "crime",
+    "valueText": "suç"
+  },
+  {
+    "keyText": "tear",
+    "valueText": "yırtmak"
+  },
+  {
+    "keyText": "choice",
+    "valueText": "seçenek"
+  },
+  {
+    "keyText": "liquid",
+    "valueText": "sıvı"
+  },
+  {
+    "keyText": "access",
+    "valueText": "erişim"
+  },
+  {
+    "keyText": "thief",
+    "valueText": "hırsız"
+  },
+  {
+    "keyText": "recognize",
+    "valueText": "tanımak"
+  },
+  {
+    "keyText": "require",
+    "valueText": "gerektirmek"
+  },
+  {
+    "keyText": "connect",
+    "valueText": "bağlamak"
+  },
+  {
+    "keyText": "prove",
+    "valueText": "kanıtlamak"
+  },
+  {
+    "keyText": "confirm",
+    "valueText": "doğrulamak"
+  },
+  {
+    "keyText": "purpose",
+    "valueText": "amaç"
+  },
+  {
+    "keyText": "social",
+    "valueText": "sosyal"
+  },
+  {
+    "keyText": "audience",
+    "valueText": "seyirci"
+  },
+  {
+    "keyText": "sail",
+    "valueText": "denize açılmak"
+  },
+  {
+    "keyText": "culture",
+    "valueText": "kültür"
+  },
+  {
+    "keyText": "tiny",
+    "valueText": "ufacık"
+  },
+  {
+    "keyText": "independent",
+    "valueText": "bağımsız"
+  },
+  {
+    "keyText": "kid",
+    "valueText": "çocuk"
+  },
+  {
+    "keyText": "hero",
+    "valueText": "kahraman"
+  },
+  {
+    "keyText": "district",
+    "valueText": "semt"
+  },
+  {
+    "keyText": "twin",
+    "valueText": "ikiz"
+  },
+  {
+    "keyText": "appear",
+    "valueText": "belirmek"
+  },
+  {
+    "keyText": "provide",
+    "valueText": "sağlamak"
+  },
+  {
+    "keyText": "chapter",
+    "valueText": "bölüm"
+  },
+  {
+    "keyText": "effort",
+    "valueText": "çaba"
+  },
+  {
+    "keyText": "rough",
+    "valueText": "kabataslak"
+  },
+  {
+    "keyText": "attack",
+    "valueText": "saldırmak"
+  },
+  {
+    "keyText": "disadvantage",
+    "valueText": "dezavantaj"
+  },
+  {
+    "keyText": "insist",
+    "valueText": "ısrar etmek"
+  },
+  {
+    "keyText": "apart",
+    "valueText": "ayrı"
+  },
+  {
+    "keyText": "yard",
+    "valueText": "bahçe"
+  },
+  {
+    "keyText": "guard",
+    "valueText": "bekçi"
+  },
+  {
+    "keyText": "surround",
+    "valueText": "çevrelemek"
+  },
+  {
+    "keyText": "iron",
+    "valueText": "ütülemek"
+  },
+  {
+    "keyText": "forward",
+    "valueText": "ileri"
+  },
+  {
+    "keyText": "consider",
+    "valueText": "değerlendirmek"
+  },
+  {
+    "keyText": "attempt",
+    "valueText": "girişim"
+  },
+  {
+    "keyText": "ordinary",
+    "valueText": "sıradan"
+  },
+  {
+    "keyText": "bay",
+    "valueText": "koy"
+  },
+  {
+    "keyText": "signature",
+    "valueText": "imza"
+  },
+  {
+    "keyText": "brave",
+    "valueText": "cesur"
+  },
+  {
+    "keyText": "guilty",
+    "valueText": "suçlu"
+  },
+  {
+    "keyText": "hire",
+    "valueText": "kiralamak"
+  },
+  {
+    "keyText": "issue",
+    "valueText": "konu"
+  },
+  {
+    "keyText": "disappoint",
+    "valueText": "hayal kırıklığına uğratmak"
+  },
+  {
+    "keyText": "permission",
+    "valueText": "izin"
+  },
+  {
+    "keyText": "bite",
+    "valueText": "ısırmak"
+  },
+  {
+    "keyText": "contain",
+    "valueText": "içermek"
+  },
+  {
+    "keyText": "though",
+    "valueText": "-diği halde"
+  },
+  {
+    "keyText": "vehicle",
+    "valueText": "araç"
+  },
+  {
+    "keyText": "avoid",
+    "valueText": "önlemek"
+  },
+  {
+    "keyText": "blank",
+    "valueText": "boş"
+  },
+  {
+    "keyText": "spot",
+    "valueText": "leke"
+  },
+  {
+    "keyText": "journalist",
+    "valueText": "gazeteci"
+  },
+  {
+    "keyText": "divide",
+    "valueText": "ayrılmak"
+  },
+  {
+    "keyText": "silent",
+    "valueText": "sessiz"
+  },
+  {
+    "keyText": "otherwise",
+    "valueText": "aksi takdirde"
+  },
+  {
+    "keyText": "accept",
+    "valueText": "kabul etmek"
+  },
+  {
+    "keyText": "protect",
+    "valueText": "korumak"
+  },
+  {
+    "keyText": "material",
+    "valueText": "madde"
+  },
+  {
+    "keyText": "deserve",
+    "valueText": "hak etmek"
+  },
+  {
+    "keyText": "anniversary",
+    "valueText": "yıldönümü"
+  },
+  {
+    "keyText": "statue",
+    "valueText": "heykel"
+  },
+  {
+    "keyText": "neat",
+    "valueText": "düzenli"
+  },
+  {
+    "keyText": "rubbish",
+    "valueText": "çöp"
+  },
+  {
+    "keyText": "upper",
+    "valueText": "üst"
+  },
+  {
+    "keyText": "charity",
+    "valueText": "hayır kuruluşu"
+  },
+  {
+    "keyText": "border",
+    "valueText": "sınır"
+  },
+  {
+    "keyText": "sticky",
+    "valueText": "yapış yapış"
+  },
+  {
+    "keyText": "lecture",
+    "valueText": "ders"
+  },
+  {
+    "keyText": "rid",
+    "valueText": "başından atmak"
+  },
+  {
+    "keyText": "rare",
+    "valueText": "nadir"
+  },
+  {
+    "keyText": "planet",
+    "valueText": "gezegen"
+  },
+  {
+    "keyText": "flow",
+    "valueText": "akmak"
+  },
+  {
+    "keyText": "refuse",
+    "valueText": "reddetmek"
+  },
+  {
+    "keyText": "novel",
+    "valueText": "roman"
+  },
+  {
+    "keyText": "judge",
+    "valueText": "yargılamak"
+  },
+  {
+    "keyText": "literature",
+    "valueText": "edebiyat"
+  },
+  {
+    "keyText": "article",
+    "valueText": "makale"
+  },
+  {
+    "keyText": "loan",
+    "valueText": "borç"
+  },
+  {
+    "keyText": "temporary",
+    "valueText": "geçici"
+  },
+  {
+    "keyText": "pour",
+    "valueText": "dökmek"
+  },
+  {
+    "keyText": "shade",
+    "valueText": "gölge"
+  },
+  {
+    "keyText": "penny",
+    "valueText": "metelik"
+  },
+  {
+    "keyText": "kindly",
+    "valueText": "iyiliksever"
+  },
+  {
+    "keyText": "warn",
+    "valueText": "uyarmak"
+  },
+  {
+    "keyText": "bitter",
+    "valueText": "acı"
+  },
+  {
+    "keyText": "stuff",
+    "valueText": "şey"
+  },
+  {
+    "keyText": "climate",
+    "valueText": "iklim"
+  },
+  {
+    "keyText": "rail",
+    "valueText": "tırabzan"
+  },
+  {
+    "keyText": "frequently",
+    "valueText": "sık sık"
+  },
+  {
+    "keyText": "label",
+    "valueText": "etiket"
+  },
+  {
+    "keyText": "jealous",
+    "valueText": "kıskanç"
+  },
+  {
+    "keyText": "shave",
+    "valueText": "tıraş olmak"
+  },
+  {
+    "keyText": "exist",
+    "valueText": "var olmak"
+  },
+  {
+    "keyText": "hardly",
+    "valueText": "güçlükle"
+  },
+  {
+    "keyText": "recover",
+    "valueText": "iyileşmek"
+  },
+  {
+    "keyText": "compete",
+    "valueText": "rekabet etmek"
+  },
+  {
+    "keyText": "condition",
+    "valueText": "durum"
+  },
+  {
+    "keyText": "frame",
+    "valueText": "çerçeve"
+  },
+  {
+    "keyText": "huge",
+    "valueText": "devasa"
+  },
+  {
+    "keyText": "president",
+    "valueText": "cumhurbaşkanı"
+  },
+  {
+    "keyText": "marry",
+    "valueText": "evlenmek"
+  },
+  {
+    "keyText": "remove",
+    "valueText": "uzaklaştımak"
+  },
+  {
+    "keyText": "introduce",
+    "valueText": "tanıştırmak"
+  },
+  {
+    "keyText": "admit",
+    "valueText": "kabul etmek"
+  },
+  {
+    "keyText": "occasion",
+    "valueText": "fırsat"
+  },
+  {
+    "keyText": "dust",
+    "valueText": "toz"
+  },
+  {
+    "keyText": "enormous",
+    "valueText": "muazzam"
+  },
+  {
+    "keyText": "plenty",
+    "valueText": "bol"
+  },
+  {
+    "keyText": "remain",
+    "valueText": "kalmak"
+  },
+  {
+    "keyText": "shape",
+    "valueText": "şekil"
+  },
+  {
+    "keyText": "ahead",
+    "valueText": "ileride"
+  },
+  {
+    "keyText": "career",
+    "valueText": "kariyer"
+  },
+  {
+    "keyText": "request",
+    "valueText": "talep"
+  },
+  {
+    "keyText": "abroad",
+    "valueText": "yurt dışı"
+  },
+  {
+    "keyText": "punish",
+    "valueText": "cezalandırmak"
+  },
+  {
+    "keyText": "worth",
+    "valueText": "değer"
+  },
+  {
+    "keyText": "announce",
+    "valueText": "duyurmak"
+  },
+  {
+    "keyText": "promise",
+    "valueText": "söz vermek"
+  },
+  {
+    "keyText": "grade",
+    "valueText": "sınıf"
+  },
+  {
+    "keyText": "none",
+    "valueText": "hiçbiri"
+  },
+  {
+    "keyText": "invent",
+    "valueText": "icat etmek"
+  },
+  {
+    "keyText": "flood",
+    "valueText": "sel"
+  },
+  {
+    "keyText": "quit",
+    "valueText": "bırakmak"
+  },
+  {
+    "keyText": "creature",
+    "valueText": "varlık"
+  },
+  {
+    "keyText": "achieve",
+    "valueText": "başarmak"
+  },
+  {
+    "keyText": "instance",
+    "valueText": "örnek"
+  },
+  {
+    "keyText": "shy",
+    "valueText": "utangaç"
+  },
+  {
+    "keyText": "prince",
+    "valueText": "prens"
+  },
+  {
+    "keyText": "strike",
+    "valueText": "grev"
+  },
+  {
+    "keyText": "suddenly",
+    "valueText": "aniden"
+  },
+  {
+    "keyText": "grant",
+    "valueText": "hibe etmek"
+  },
+  {
+    "keyText": "FALSE",
+    "valueText": "sahte"
+  },
+  {
+    "keyText": "event",
+    "valueText": "müsabaka"
+  },
+  {
+    "keyText": "option",
+    "valueText": "seçenek"
+  },
+  {
+    "keyText": "underneath",
+    "valueText": "altında"
+  },
+  {
+    "keyText": "remind",
+    "valueText": "hatırlatmak"
+  },
+  {
+    "keyText": "realize",
+    "valueText": "farketmek"
+  },
+  {
+    "keyText": "promote",
+    "valueText": "teşvik etmek"
+  },
+  {
+    "keyText": "forgive",
+    "valueText": "affetmek"
+  },
+  {
+    "keyText": "priest",
+    "valueText": "papaz"
+  },
+  {
+    "keyText": "blind",
+    "valueText": "kör"
+  },
+  {
+    "keyText": "tight",
+    "valueText": "sıkı"
+  },
+  {
+    "keyText": "scene",
+    "valueText": "sahne"
+  },
+  {
+    "keyText": "scream",
+    "valueText": "çığlık"
+  },
+  {
+    "keyText": "disgusting",
+    "valueText": "iğrenç"
+  },
+  {
+    "keyText": "result",
+    "valueText": "sonuç"
+  },
+  {
+    "keyText": "due",
+    "valueText": "vadesi dolmuş"
+  },
+  {
+    "keyText": "certificate",
+    "valueText": "sertifika"
+  },
+  {
+    "keyText": "garbage",
+    "valueText": "çöp"
+  },
+  {
+    "keyText": "urgent",
+    "valueText": "acil"
+  },
+  {
+    "keyText": "baggage",
+    "valueText": "bagaj"
+  },
+  {
+    "keyText": "interrupt",
+    "valueText": "sözünü kesmek"
+  },
+  {
+    "keyText": "land",
+    "valueText": "arazi"
+  },
+  {
+    "keyText": "bin",
+    "valueText": "çöp kutusu"
+  },
+  {
+    "keyText": "knowledge",
+    "valueText": "bilgi"
+  },
+  {
+    "keyText": "reach",
+    "valueText": "ulaşmak"
+  },
+  {
+    "keyText": "peace",
+    "valueText": "barış"
+  },
+  {
+    "keyText": "allow",
+    "valueText": "izin vermek"
+  },
+  {
+    "keyText": "exchange",
+    "valueText": "değiş tokuş etmek"
+  },
+  {
+    "keyText": "former",
+    "valueText": "önceki"
+  },
+  {
+    "keyText": "sore",
+    "valueText": "yara"
+  },
+  {
+    "keyText": "likely",
+    "valueText": "büyük ihtimalle"
+  },
+  {
+    "keyText": "responsible",
+    "valueText": "sorumlu"
+  },
+  {
+    "keyText": "expect",
+    "valueText": "ummak"
+  },
+  {
+    "keyText": "regular",
+    "valueText": "düzenli"
+  },
+  {
+    "keyText": "suggest",
+    "valueText": "önermek"
+  },
+  {
+    "keyText": "familiar",
+    "valueText": "tanıdık"
+  },
+  {
+    "keyText": "habit",
+    "valueText": "alışkanlık"
+  },
+  {
+    "keyText": "necessary",
+    "valueText": "gerekli"
+  },
+  {
+    "keyText": "stupid",
+    "valueText": "aptal"
+  },
+  {
+    "keyText": "blame",
+    "valueText": "suçlamak"
+  },
+  {
+    "keyText": "private",
+    "valueText": "özel"
+  },
+  {
+    "keyText": "route",
+    "valueText": "güzergah"
+  },
+  {
+    "keyText": "ground",
+    "valueText": "zemin"
+  },
+  {
+    "keyText": "sense",
+    "valueText": "his"
+  },
+  {
+    "keyText": "replace",
+    "valueText": "yerine geçmek"
+  },
+  {
+    "keyText": "advise",
+    "valueText": "tavsiye etmek"
+  },
+  {
+    "keyText": "raise",
+    "valueText": "yükseltmek"
+  },
+  {
+    "keyText": "character",
+    "valueText": "karakter"
+  },
+  {
+    "keyText": "doubt",
+    "valueText": "şüphelenmek"
+  },
+  {
+    "keyText": "trust",
+    "valueText": "güven"
+  },
+  {
+    "keyText": "celebrate",
+    "valueText": "kutlamak"
+  },
+  {
+    "keyText": "spice",
+    "valueText": "baharat"
+  },
+  {
+    "keyText": "universe",
+    "valueText": "evren"
+  },
+  {
+    "keyText": "cheerful",
+    "valueText": "neşeli"
+  },
+  {
+    "keyText": "chance",
+    "valueText": "şans"
+  },
+  {
+    "keyText": "permanent",
+    "valueText": "kalıcı"
+  },
+  {
+    "keyText": "approach",
+    "valueText": "yaklaşmak"
+  },
+  {
+    "keyText": "salary",
+    "valueText": "maaş"
+  },
+  {
+    "keyText": "horror",
+    "valueText": "korku"
+  },
+  {
+    "keyText": "success",
+    "valueText": "başarı"
+  },
+  {
+    "keyText": "bone",
+    "valueText": "kemik"
+  },
+  {
+    "keyText": "heaven",
+    "valueText": "cennet"
+  },
+  {
+    "keyText": "damp",
+    "valueText": "nemli"
+  },
+  {
+    "keyText": "stretch",
+    "valueText": "uzatmak"
+  },
+  {
+    "keyText": "outline",
+    "valueText": "ana hatlarıyla belirtmek"
+  },
+  {
+    "keyText": "qualify",
+    "valueText": "yeterlik kazanmak"
+  },
+  {
+    "keyText": "yawn",
+    "valueText": "esnemek"
+  },
+  {
+    "keyText": "expose",
+    "valueText": "maruz kalmak"
+  },
+  {
+    "keyText": "emphasize",
+    "valueText": "vurgulamak"
+  },
+  {
+    "keyText": "confidence",
+    "valueText": "güven"
+  },
+  {
+    "keyText": "lean",
+    "valueText": "eğilmek"
+  },
+  {
+    "keyText": "broadcast",
+    "valueText": "yayın yapmak"
+  },
+  {
+    "keyText": "reputation",
+    "valueText": "itibar"
+  },
+  {
+    "keyText": "influence",
+    "valueText": "etki"
+  },
+  {
+    "keyText": "hesitate",
+    "valueText": "tereddüt etmek"
+  },
+  {
+    "keyText": "courage",
+    "valueText": "cesaret"
+  },
+  {
+    "keyText": "legal",
+    "valueText": "yasal"
+  },
+  {
+    "keyText": "opponent",
+    "valueText": "rakip"
+  },
+  {
+    "keyText": "ban",
+    "valueText": "yasak"
+  },
+  {
+    "keyText": "image",
+    "valueText": "görüntü"
+  },
+  {
+    "keyText": "formal",
+    "valueText": "resmi"
+  },
+  {
+    "keyText": "master",
+    "valueText": "usta"
+  },
+  {
+    "keyText": "wise",
+    "valueText": "akıllı"
+  },
+  {
+    "keyText": "release",
+    "valueText": "serbest bırakmak"
+  },
+  {
+    "keyText": "nut",
+    "valueText": "fındık"
+  },
+  {
+    "keyText": "desire",
+    "valueText": "arzulamak"
+  },
+  {
+    "keyText": "informal",
+    "valueText": "gayriresmî"
+  },
+  {
+    "keyText": "evil",
+    "valueText": "kötü"
+  },
+  {
+    "keyText": "enthusiasm",
+    "valueText": "heves"
+  },
+  {
+    "keyText": "squeeze",
+    "valueText": "sıkmak"
+  },
+  {
+    "keyText": "appropriate",
+    "valueText": "uygun"
+  },
+  {
+    "keyText": "sympathy",
+    "valueText": "sempati"
+  },
+  {
+    "keyText": "aware",
+    "valueText": "farkında olmak"
+  },
+  {
+    "keyText": "impression",
+    "valueText": "izlenim"
+  },
+  {
+    "keyText": "obtain",
+    "valueText": "elde etmek"
+  },
+  {
+    "keyText": "probable",
+    "valueText": "muhtemel"
+  },
+  {
+    "keyText": "citizen",
+    "valueText": "vatandaş"
+  },
+  {
+    "keyText": "loyal",
+    "valueText": "sadık"
+  },
+  {
+    "keyText": "vital",
+    "valueText": "hayati"
+  },
+  {
+    "keyText": "shell",
+    "valueText": "kabuk"
+  },
+  {
+    "keyText": "adopt",
+    "valueText": "evlat edinmek"
+  },
+  {
+    "keyText": "cheat",
+    "valueText": "kopya çekmek"
+  },
+  {
+    "keyText": "affair",
+    "valueText": "iş"
+  },
+  {
+    "keyText": "evidence",
+    "valueText": "kanıt"
+  },
+  {
+    "keyText": "muscle",
+    "valueText": "kas"
+  },
+  {
+    "keyText": "disaster",
+    "valueText": "felâket"
+  },
+  {
+    "keyText": "unfortunate",
+    "valueText": "talihsiz"
+  },
+  {
+    "keyText": "decay",
+    "valueText": "çürümek"
+  },
+  {
+    "keyText": "latter",
+    "valueText": "ikinci"
+  },
+  {
+    "keyText": "spread",
+    "valueText": "yayılmak"
+  },
+  {
+    "keyText": "appeal",
+    "valueText": "temyiz"
+  },
+  {
+    "keyText": "suspicious",
+    "valueText": "şüpheli"
+  },
+  {
+    "keyText": "convert",
+    "valueText": "dönüştürmek"
+  },
+  {
+    "keyText": "spirit",
+    "valueText": "ruh"
+  },
+  {
+    "keyText": "shallow",
+    "valueText": "sığ"
+  },
+  {
+    "keyText": "moral",
+    "valueText": "manevi"
+  },
+  {
+    "keyText": "guarantee",
+    "valueText": ",garanti"
+  },
+  {
+    "keyText": "restore",
+    "valueText": "yenilemek"
+  },
+  {
+    "keyText": "dominate",
+    "valueText": "egemen olmak"
+  },
+  {
+    "keyText": "delicate",
+    "valueText": "narin"
+  },
+  {
+    "keyText": "chop",
+    "valueText": "doğramak"
+  },
+  {
+    "keyText": "sudden",
+    "valueText": "ani"
+  },
+  {
+    "keyText": "chew",
+    "valueText": "çiğnemek"
+  },
+  {
+    "keyText": "abandon",
+    "valueText": "terk etmek"
+  },
+  {
+    "keyText": "maintain",
+    "valueText": "sürdürmek"
+  },
+  {
+    "keyText": "distribute",
+    "valueText": "dağıtmak"
+  },
+  {
+    "keyText": "bush",
+    "valueText": "çalı"
+  },
+  {
+    "keyText": "focus",
+    "valueText": "odaklanmak"
+  },
+  {
+    "keyText": "trap",
+    "valueText": "tuzak"
+  },
+  {
+    "keyText": "patience",
+    "valueText": "sabır"
+  },
+  {
+    "keyText": "struggle",
+    "valueText": "çabalamak"
+  },
+  {
+    "keyText": "flame",
+    "valueText": "alev"
+  },
+  {
+    "keyText": "vast",
+    "valueText": "çok büyük"
+  },
+  {
+    "keyText": "impress",
+    "valueText": "etkilemek"
+  },
+  {
+    "keyText": "ensure",
+    "valueText": "sağlamak"
+  },
+  {
+    "keyText": "crack",
+    "valueText": "çatlatmak"
+  },
+  {
+    "keyText": "distinguish",
+    "valueText": "ayırt etmek"
+  },
+  {
+    "keyText": "victim",
+    "valueText": "kurban"
+  },
+  {
+    "keyText": "affection",
+    "valueText": "sevgi"
+  },
+  {
+    "keyText": "cure",
+    "valueText": "çare"
+  },
+  {
+    "keyText": "steer",
+    "valueText": "yönlendirmek"
+  },
+  {
+    "keyText": "rush",
+    "valueText": "acele"
+  },
+  {
+    "keyText": "fame",
+    "valueText": "şöhret"
+  },
+  {
+    "keyText": "pressure",
+    "valueText": "baskı"
+  },
+  {
+    "keyText": "primary",
+    "valueText": "birincil"
+  },
+  {
+    "keyText": "cause",
+    "valueText": "neden olmak"
+  },
+  {
+    "keyText": "assist",
+    "valueText": "yardım etmek"
+  },
+  {
+    "keyText": "deliberate",
+    "valueText": "planlı"
+  },
+  {
+    "keyText": "preserve",
+    "valueText": "muhafaza etmek"
+  },
+  {
+    "keyText": "nevertheless",
+    "valueText": "yine de"
+  },
+  {
+    "keyText": "concern",
+    "valueText": "endişe"
+  },
+  {
+    "keyText": "assure",
+    "valueText": "garanti etmek"
+  },
+  {
+    "keyText": "whereas",
+    "valueText": "buna karşılık"
+  },
+  {
+    "keyText": "majority",
+    "valueText": "çoğunluk"
+  },
+  {
+    "keyText": "highlight",
+    "valueText": "vurgulamak"
+  },
+  {
+    "keyText": "recall",
+    "valueText": "hatırlamak"
+  },
+  {
+    "keyText": "decade",
+    "valueText": "10 yıl"
+  },
+  {
+    "keyText": "innocent",
+    "valueText": "masum"
+  },
+  {
+    "keyText": "rapid",
+    "valueText": "hızlı"
+  },
+  {
+    "keyText": "pretend",
+    "valueText": "-mış gibi yapmak"
+  },
+  {
+    "keyText": "major",
+    "valueText": "ana"
+  },
+  {
+    "keyText": "fortune",
+    "valueText": "servet"
+  },
+  {
+    "keyText": "suffer",
+    "valueText": "acı çekmek"
+  },
+  {
+    "keyText": "intelligence",
+    "valueText": "zeka"
+  },
+  {
+    "keyText": "valid",
+    "valueText": "geçerli"
+  },
+  {
+    "keyText": "commit",
+    "valueText": "işlemek"
+  },
+  {
+    "keyText": "trial",
+    "valueText": "duruşma"
+  },
+  {
+    "keyText": "remark",
+    "valueText": "görüş"
+  },
+  {
+    "keyText": "brick",
+    "valueText": "tuğla"
+  },
+  {
+    "keyText": "sufficient",
+    "valueText": "yeterli"
+  },
+  {
+    "keyText": "combine",
+    "valueText": "birleştirmek"
+  },
+  {
+    "keyText": "steady",
+    "valueText": "istikrarlı"
+  },
+  {
+    "keyText": "crisis",
+    "valueText": "kriz"
+  },
+  {
+    "keyText": "deal",
+    "valueText": "anlaşma"
+  },
+  {
+    "keyText": "lane",
+    "valueText": "şerit"
+  },
+  {
+    "keyText": "lid",
+    "valueText": "kapak"
+  },
+  {
+    "keyText": "beyond",
+    "valueText": "ötesinde"
+  },
+  {
+    "keyText": "launch",
+    "valueText": "başlatmak"
+  },
+  {
+    "keyText": "state",
+    "valueText": "devlet"
+  },
+  {
+    "keyText": "consequence",
+    "valueText": "sonuç"
+  },
+  {
+    "keyText": "belief",
+    "valueText": "inanç"
+  },
+  {
+    "keyText": "wound",
+    "valueText": "yara"
+  },
+  {
+    "keyText": "error",
+    "valueText": "hata"
+  },
+  {
+    "keyText": "arrow",
+    "valueText": "ok"
+  },
+  {
+    "keyText": "manner",
+    "valueText": "tavır"
+  },
+  {
+    "keyText": "calculate",
+    "valueText": "hesaplamak"
+  },
+  {
+    "keyText": "bend",
+    "valueText": "bükmek"
+  },
+  {
+    "keyText": "chase",
+    "valueText": "kovalamak"
+  },
+  {
+    "keyText": "contrast",
+    "valueText": "karşıtlık"
+  },
+  {
+    "keyText": "effective",
+    "valueText": "etkili"
+  },
+  {
+    "keyText": "protest",
+    "valueText": "karşı çıkmak"
+  },
+  {
+    "keyText": "feature",
+    "valueText": "özellik"
+  },
+  {
+    "keyText": "swing",
+    "valueText": "sallanmak"
+  },
+  {
+    "keyText": "resist",
+    "valueText": "direnmek"
+  },
+  {
+    "keyText": "artificial",
+    "valueText": "yapay"
+  },
+  {
+    "keyText": "chart",
+    "valueText": "grafik"
+  },
+  {
+    "keyText": "tail",
+    "valueText": "kuyruk"
+  },
+  {
+    "keyText": "schedule",
+    "valueText": "program"
+  },
+  {
+    "keyText": "ultimate",
+    "valueText": "nihai"
+  },
+  {
+    "keyText": "breed",
+    "valueText": "doğurmak"
+  },
+  {
+    "keyText": "cast",
+    "valueText": "döküm"
+  },
+  {
+    "keyText": "considerable",
+    "valueText": "hatrı sayılır derecede"
+  },
+  {
+    "keyText": "absolute",
+    "valueText": "mutlak"
+  },
+  {
+    "keyText": "severe",
+    "valueText": "şiddetli"
+  },
+  {
+    "keyText": "revolution",
+    "valueText": "devrim"
+  },
+  {
+    "keyText": "indicate",
+    "valueText": "belirtmek"
+  },
+  {
+    "keyText": "actual",
+    "valueText": "gerçek"
+  },
+  {
+    "keyText": "cloth",
+    "valueText": "kumaş"
+  },
+  {
+    "keyText": "solid",
+    "valueText": "sağlam"
+  },
+  {
+    "keyText": "reveal",
+    "valueText": "ortaya çıkarmak"
+  },
+  {
+    "keyText": "establish",
+    "valueText": "kurmak"
+  },
+  {
+    "keyText": "substance",
+    "valueText": "madde"
+  },
+  {
+    "keyText": "react",
+    "valueText": "tepki göstermek"
+  },
+  {
+    "keyText": "mud",
+    "valueText": "çamur"
+  },
+  {
+    "keyText": "religious",
+    "valueText": "dini"
+  },
+  {
+    "keyText": "estimate",
+    "valueText": "tahmin etmek"
+  },
+  {
+    "keyText": "theory",
+    "valueText": "teori"
+  },
+  {
+    "keyText": "passage",
+    "valueText": "geçit"
+  },
+  {
+    "keyText": "overall",
+    "valueText": "tüm"
+  },
+  {
+    "keyText": "vary",
+    "valueText": "çeşitlilik göstermek"
+  },
+  {
+    "keyText": "investigate",
+    "valueText": "incelemek"
+  },
+  {
+    "keyText": "moreover",
+    "valueText": "üstelik"
+  },
+  {
+    "keyText": "harm",
+    "valueText": "zarar vermek"
+  },
+  {
+    "keyText": "feather",
+    "valueText": "kuş tüyü"
+  },
+  {
+    "keyText": "justify",
+    "valueText": "haklı çıkarmak"
+  },
+  {
+    "keyText": "beneath",
+    "valueText": "altında"
+  },
+  {
+    "keyText": "finance",
+    "valueText": "finans"
+  },
+  {
+    "keyText": "committee",
+    "valueText": "heyet"
+  },
+  {
+    "keyText": "amuse",
+    "valueText": "eğlendirmek"
+  },
+  {
+    "keyText": "client",
+    "valueText": "müşteri"
+  },
+  {
+    "keyText": "institute",
+    "valueText": "enstitü"
+  },
+  {
+    "keyText": "faint",
+    "valueText": "bayılmak"
+  },
+  {
+    "keyText": "institution",
+    "valueText": "kurum"
+  },
+  {
+    "keyText": "strain",
+    "valueText": "gerginleştirmek"
+  },
+  {
+    "keyText": "income",
+    "valueText": "gelir"
+  },
+  {
+    "keyText": "navy",
+    "valueText": "donanma"
+  },
+  {
+    "keyText": "exception",
+    "valueText": "istisna"
+  },
+  {
+    "keyText": "rate",
+    "valueText": "oran"
+  },
+  {
+    "keyText": "objective",
+    "valueText": "hedef"
+  },
+  {
+    "keyText": "community",
+    "valueText": "topluluk"
+  },
+  {
+    "keyText": "division",
+    "valueText": "bölünme"
+  },
+  {
+    "keyText": "extend",
+    "valueText": "genişletmek"
+  },
+  {
+    "keyText": "entire",
+    "valueText": "bütün"
+  },
+  {
+    "keyText": "urban",
+    "valueText": "kentsel"
+  },
+  {
+    "keyText": "visible",
+    "valueText": "görünür"
+  },
+  {
+    "keyText": "genuine",
+    "valueText": "gerçek"
+  },
+  {
+    "keyText": "relevant",
+    "valueText": "konu ile ilgili"
+  },
+  {
+    "keyText": "aircraft",
+    "valueText": "uçak"
+  },
+  {
+    "keyText": "sensitive",
+    "valueText": "hassas"
+  },
+  {
+    "keyText": "funeral",
+    "valueText": "cenaze"
+  },
+  {
+    "keyText": "chest",
+    "valueText": "göğüs"
+  },
+  {
+    "keyText": "reverse",
+    "valueText": "ters"
+  },
+  {
+    "keyText": "anger",
+    "valueText": "öfke"
+  },
+  {
+    "keyText": "resource",
+    "valueText": "kaynak"
+  },
+  {
+    "keyText": "soil",
+    "valueText": "toprak"
+  },
+  {
+    "keyText": "hook",
+    "valueText": "kanca"
+  },
+  {
+    "keyText": "export",
+    "valueText": "ihraç etmek"
+  },
+  {
+    "keyText": "publicity",
+    "valueText": "tanıtım"
+  },
+  {
+    "keyText": "debt",
+    "valueText": "borç"
+  },
+  {
+    "keyText": "remote",
+    "valueText": "uzak"
+  },
+  {
+    "keyText": "treat",
+    "valueText": "davranmak"
+  },
+  {
+    "keyText": "barrier",
+    "valueText": "engel"
+  },
+  {
+    "keyText": "demonstrate",
+    "valueText": "göstermek"
+  },
+  {
+    "keyText": "minister",
+    "valueText": "bakan"
+  },
+  {
+    "keyText": "command",
+    "valueText": "emir"
+  },
+  {
+    "keyText": "thus",
+    "valueText": "böylelikle"
+  },
+  {
+    "keyText": "incident",
+    "valueText": "olay"
+  },
+  {
+    "keyText": "wire",
+    "valueText": "tel"
+  },
+  {
+    "keyText": "rural",
+    "valueText": "kırsal"
+  },
+  {
+    "keyText": "pride",
+    "valueText": "gurur"
+  },
+  {
+    "keyText": "observe",
+    "valueText": "gözlemlemek"
+  },
+  {
+    "keyText": "shelter",
+    "valueText": "sığınak"
+  },
+  {
+    "keyText": "adapt",
+    "valueText": "uyarlamak"
+  },
+  {
+    "keyText": "devote",
+    "valueText": "adamak"
+  },
+  {
+    "keyText": "illustrate",
+    "valueText": "resmetmek"
+  },
+  {
+    "keyText": "practical",
+    "valueText": "kullanışlı"
+  },
+  {
+    "keyText": "justice",
+    "valueText": "adalet"
+  },
+  {
+    "keyText": "impatient",
+    "valueText": "sabırsız"
+  },
+  {
+    "keyText": "stroke",
+    "valueText": "felç"
+  },
+  {
+    "keyText": "layer",
+    "valueText": "katman"
+  },
+  {
+    "keyText": "satisfy",
+    "valueText": "tatmin etmek"
+  },
+  {
+    "keyText": "overcome",
+    "valueText": "üstesinden gelmek"
+  },
+  {
+    "keyText": "criticism",
+    "valueText": "eleştiri"
+  },
+  {
+    "keyText": "constant",
+    "valueText": "sürekli"
+  },
+  {
+    "keyText": "response",
+    "valueText": "cevap"
+  },
+  {
+    "keyText": "reflect",
+    "valueText": "yansıtmak"
+  },
+  {
+    "keyText": "shift",
+    "valueText": "vardiya"
+  },
+  {
+    "keyText": "promptly",
+    "valueText": "acilen"
+  },
+  {
+    "keyText": "ignore",
+    "valueText": "görmezden gelmek"
+  },
+  {
+    "keyText": "suspicion",
+    "valueText": "şüphe"
+  },
+  {
+    "keyText": "slope",
+    "valueText": "eğim"
+  },
+  {
+    "keyText": "grave",
+    "valueText": "mezar"
+  },
+  {
+    "keyText": "sweep",
+    "valueText": "süpürmek"
+  },
+  {
+    "keyText": "rapidly",
+    "valueText": "hızlıca"
+  },
+  {
+    "keyText": "express",
+    "valueText": "ifade etmek"
+  },
+  {
+    "keyText": "element",
+    "valueText": "unsur"
+  },
+  {
+    "keyText": "royal",
+    "valueText": "kraliyet"
+  },
+  {
+    "keyText": "seed",
+    "valueText": "tohum"
+  },
+  {
+    "keyText": "mental",
+    "valueText": "ruhsal"
+  },
+  {
+    "keyText": "affect",
+    "valueText": "etkilemek"
+  },
+  {
+    "keyText": "circumstance",
+    "valueText": "durum"
+  },
+  {
+    "keyText": "decline",
+    "valueText": "inişe geçmek"
+  },
+  {
+    "keyText": "apparent",
+    "valueText": "görünür"
+  },
+  {
+    "keyText": "enable",
+    "valueText": "sağlamak"
+  },
+  {
+    "keyText": "satisfaction",
+    "valueText": "memnuniyet"
+  },
+  {
+    "keyText": "horn",
+    "valueText": "boynuz"
+  },
+  {
+    "keyText": "context",
+    "valueText": "bağlam"
+  },
+  {
+    "keyText": "emphasis",
+    "valueText": "vurgu"
+  },
+  {
+    "keyText": "enthusiastic",
+    "valueText": "hevesli"
+  },
+  {
+    "keyText": "awkward",
+    "valueText": "tuhaf"
+  },
+  {
+    "keyText": "steam",
+    "valueText": "buhar"
+  },
+  {
+    "keyText": "represent",
+    "valueText": "temsil etmek"
+  },
+  {
+    "keyText": "occur",
+    "valueText": "meydana gelmek"
+  },
+  {
+    "keyText": "measure",
+    "valueText": "ölçmek"
+  },
+  {
+    "keyText": "govern",
+    "valueText": "yönetmek"
+  },
+  {
+    "keyText": "examine",
+    "valueText": "incelemek"
+  },
+  {
+    "keyText": "disturb",
+    "valueText": "rahatsız etmek"
+  },
+  {
+    "keyText": "acid",
+    "valueText": "asit"
+  },
+  {
+    "keyText": "scratch",
+    "valueText": "kazımak"
+  },
+  {
+    "keyText": "define",
+    "valueText": "tanımlamak"
+  },
+  {
+    "keyText": "process",
+    "valueText": "işlemek"
+  },
+  {
+    "keyText": "physical",
+    "valueText": "bedensel"
+  },
+  {
+    "keyText": "poison",
+    "valueText": "zehir"
+  },
+  {
+    "keyText": "collapse",
+    "valueText": "çökmek"
+  },
+  {
+    "keyText": "wealth",
+    "valueText": "zenginlik"
+  },
+  {
+    "keyText": "heal",
+    "valueText": "iyileştirmek"
+  },
+  {
+    "keyText": "vision",
+    "valueText": "görme"
+  },
+  {
+    "keyText": "substantial",
+    "valueText": "önemli"
+  },
+  {
+    "keyText": "emerge",
+    "valueText": "ortaya çıkmak"
+  },
+  {
+    "keyText": "contribute",
+    "valueText": "katkıda bulunmak"
+  },
+  {
+    "keyText": "witness",
+    "valueText": "tanık"
+  },
+  {
+    "keyText": "relief",
+    "valueText": "rahatlama"
+  },
+  {
+    "keyText": "device",
+    "valueText": "cihaz"
+  },
+  {
+    "keyText": "publication",
+    "valueText": "yayım"
+  },
+  {
+    "keyText": "anxiety",
+    "valueText": "endişe"
+  },
+  {
+    "keyText": "current",
+    "valueText": "akım"
+  },
+  {
+    "keyText": "adjust",
+    "valueText": "ayarlamak"
+  },
+  {
+    "keyText": "unique",
+    "valueText": "eşsiz"
+  },
+  {
+    "keyText": "rub",
+    "valueText": "ovmak"
+  },
+  {
+    "keyText": "aspect",
+    "valueText": "açı"
+  },
+  {
+    "keyText": "tackle",
+    "valueText": "ele almak"
+  },
+  {
+    "keyText": "expand",
+    "valueText": "genişlemek"
+  },
+  {
+    "keyText": "proof",
+    "valueText": "kanıt"
+  },
+  {
+    "keyText": "slight",
+    "valueText": "hafif"
+  },
+  {
+    "keyText": "oppose",
+    "valueText": "karşı çıkmak"
+  },
+  {
+    "keyText": "weapon",
+    "valueText": "silah"
+  },
+  {
+    "keyText": "signal",
+    "valueText": "sinyal"
+  },
+  {
+    "keyText": "gentleman",
+    "valueText": "beyefendi"
+  },
+  {
+    "keyText": "swear",
+    "valueText": "küfür etmek"
+  },
+  {
+    "keyText": "occupy",
+    "valueText": "işgal etmek"
+  },
+  {
+    "keyText": "purchase",
+    "valueText": "satın almak"
+  },
+  {
+    "keyText": "construct",
+    "valueText": "inşa etmek"
+  },
+  {
+    "keyText": "whistle",
+    "valueText": "ıslık çalmak"
+  },
+  {
+    "keyText": "monitor",
+    "valueText": "izlemek"
+  },
+  {
+    "keyText": "council",
+    "valueText": "konsey"
+  },
+  {
+    "keyText": "supply",
+    "valueText": "sağlamak"
+  },
+  {
+    "keyText": "debate",
+    "valueText": "tartışma"
+  },
+  {
+    "keyText": "propose",
+    "valueText": "önermek"
+  },
+  {
+    "keyText": "offend",
+    "valueText": "gücendirmek"
+  },
+  {
+    "keyText": "elegant",
+    "valueText": "zarif"
+  },
+  {
+    "keyText": "joy",
+    "valueText": "sevinç"
+  },
+  {
+    "keyText": "strength",
+    "valueText": "kuvvet"
+  },
+  {
+    "keyText": "sweat",
+    "valueText": "ter"
+  },
+  {
+    "keyText": "deny",
+    "valueText": "inkar etmek"
+  },
+  {
+    "keyText": "needle",
+    "valueText": "iğne"
+  },
+  {
+    "keyText": "dishonest",
+    "valueText": "sahtekar"
+  },
+  {
+    "keyText": "phase",
+    "valueText": "evre"
+  },
+  {
+    "keyText": "explosion",
+    "valueText": "patlama"
+  },
+  {
+    "keyText": "structure",
+    "valueText": "yapı"
+  },
+  {
+    "keyText": "import",
+    "valueText": "ithal etmek"
+  },
+  {
+    "keyText": "criticize",
+    "valueText": "eleştirmek"
+  },
+  {
+    "keyText": "smash",
+    "valueText": "paramparça etmek"
+  },
+  {
+    "keyText": "destruction",
+    "valueText": "tahribat"
+  },
+  {
+    "keyText": "absorb",
+    "valueText": "emmek"
+  },
+  {
+    "keyText": "approximate",
+    "valueText": "yaklaşık"
+  },
+  {
+    "keyText": "respond",
+    "valueText": "cevap vermek"
+  },
+  {
+    "keyText": "function",
+    "valueText": "işlev"
+  },
+  {
+    "keyText": "generate",
+    "valueText": "üretmek"
+  },
+  {
+    "keyText": "origin",
+    "valueText": "köken"
+  },
+  {
+    "keyText": "capture",
+    "valueText": "yakalamak"
+  },
+  {
+    "keyText": "wander",
+    "valueText": "dolaşmak"
+  },
+  {
+    "keyText": "failure",
+    "valueText": "başarısızlık"
+  },
+  {
+    "keyText": "mass",
+    "valueText": "kitle"
+  },
+  {
+    "keyText": "safety",
+    "valueText": "emniyet"
+  },
+  {
+    "keyText": "cell",
+    "valueText": "hücre"
+  },
+  {
+    "keyText": "tradition",
+    "valueText": "gelenek"
+  },
+  {
+    "keyText": "manufacture",
+    "valueText": "üretmek"
+  },
+  {
+    "keyText": "significant",
+    "valueText": "önemli"
+  },
+  {
+    "keyText": "joint",
+    "valueText": "ortak"
+  },
+  {
+    "keyText": "tend",
+    "valueText": "eğilimi olmak"
+  },
+  {
+    "keyText": "curve",
+    "valueText": "kavis"
+  },
+  {
+    "keyText": "impact",
+    "valueText": "etki"
+  },
+  {
+    "keyText": "independence",
+    "valueText": "bağımsızlık"
+  },
+  {
+    "keyText": "absence",
+    "valueText": "yokluk"
+  },
+  {
+    "keyText": "conduct",
+    "valueText": "yürütmek"
+  },
+  {
+    "keyText": "odd",
+    "valueText": "tuhaf"
+  },
+  {
+    "keyText": "string",
+    "valueText": "dizi"
+  },
+  {
+    "keyText": "chief",
+    "valueText": "başlıca"
+  },
+  {
+    "keyText": "capable",
+    "valueText": "yetenekli"
+  },
+  {
+    "keyText": "craft",
+    "valueText": "zanaat"
+  },
+  {
+    "keyText": "steel",
+    "valueText": "çelik"
+  },
+  {
+    "keyText": "survive",
+    "valueText": "hayatta kalmak"
+  },
+  {
+    "keyText": "expense",
+    "valueText": "masraf"
+  },
+  {
+    "keyText": "gather",
+    "valueText": "bir araya getirmek"
+  },
+  {
+    "keyText": "settle",
+    "valueText": "yerleşmek"
+  },
+  {
+    "keyText": "desperate",
+    "valueText": "umutsuz"
+  },
+  {
+    "keyText": "insult",
+    "valueText": "hakaret etmek"
+  },
+  {
+    "keyText": "melt",
+    "valueText": "erimek"
+  },
+  {
+    "keyText": "massive",
+    "valueText": "çok büyük"
+  },
+  {
+    "keyText": "immediate",
+    "valueText": "acil"
+  },
+  {
+    "keyText": "appreciate",
+    "valueText": "beğenmek"
+  },
+  {
+    "keyText": "presence",
+    "valueText": "varlık"
+  },
+  {
+    "keyText": "armed",
+    "valueText": "silahlı"
+  },
+  {
+    "keyText": "policy",
+    "valueText": "politika"
+  },
+  {
+    "keyText": "contemporary",
+    "valueText": "çağdaş"
+  },
+  {
+    "keyText": "philosophy",
+    "valueText": "felsefe"
+  },
+  {
+    "keyText": "violence",
+    "valueText": "şiddet"
+  },
+  {
+    "keyText": "identify",
+    "valueText": "tanımlamak"
+  },
+  {
+    "keyText": "confuse",
+    "valueText": "kafasını karıştırmak"
+  },
+  {
+    "keyText": "mayor",
+    "valueText": "belediye başkanı"
+  },
+  {
+    "keyText": "abuse",
+    "valueText": "suistimal etmek"
+  },
+  {
+    "keyText": "concrete",
+    "valueText": "beton"
+  },
+  {
+    "keyText": "claim",
+    "valueText": "iddia etmek"
+  },
+  {
+    "keyText": "stare",
+    "valueText": "dik dik bakmak"
+  },
+  {
+    "keyText": "estate",
+    "valueText": "mal mülk"
+  },
+  {
+    "keyText": "specific",
+    "valueText": "belirli"
+  },
+  {
+    "keyText": "emotion",
+    "valueText": "duygu"
+  },
+  {
+    "keyText": "cease",
+    "valueText": "durdurmak"
+  },
+  {
+    "keyText": "authority",
+    "valueText": "yetki"
+  },
+  {
+    "keyText": "senior",
+    "valueText": "kıdemli"
+  },
+  {
+    "keyText": "profit",
+    "valueText": "kar"
+  },
+  {
+    "keyText": "internal",
+    "valueText": "iç"
+  },
+  {
+    "keyText": "personality",
+    "valueText": "kişilik"
+  },
+  {
+    "keyText": "alter",
+    "valueText": "değiştirmek"
+  },
+  {
+    "keyText": "interpret",
+    "valueText": "yorumlamak"
+  },
+  {
+    "keyText": "scheme",
+    "valueText": "şema"
+  },
+  {
+    "keyText": "adequate",
+    "valueText": "yeterli"
+  },
+  {
+    "keyText": "dare",
+    "valueText": "cüret etmek"
+  },
+  {
+    "keyText": "cardboard",
+    "valueText": "karton"
+  },
+  {
+    "keyText": "thorough",
+    "valueText": "titiz"
+  },
+  {
+    "keyText": "suspect",
+    "valueText": "kuşkulanmak"
+  },
+  {
+    "keyText": "task",
+    "valueText": "görev"
+  },
+  {
+    "keyText": "ease",
+    "valueText": "rahatlatmak"
+  },
+  {
+    "keyText": "loss",
+    "valueText": "kayıp"
+  },
+  {
+    "keyText": "priority",
+    "valueText": "öncelik"
+  },
+  {
+    "keyText": "fence",
+    "valueText": "çit"
+  },
+  {
+    "keyText": "invest",
+    "valueText": "yatırım yapmak"
+  },
+  {
+    "keyText": "seek",
+    "valueText": "aramak"
+  },
+  {
+    "keyText": "surface",
+    "valueText": "yüzey"
+  },
+  {
+    "keyText": "force",
+    "valueText": "zorlamak"
+  },
+  {
+    "keyText": "source",
+    "valueText": "kaynak"
+  },
+  {
+    "keyText": "violent",
+    "valueText": "şiddetli"
+  },
+  {
+    "keyText": "scale",
+    "valueText": "ölçek"
+  },
+  {
+    "keyText": "award",
+    "valueText": "ödül"
+  },
+  {
+    "keyText": "assume",
+    "valueText": "farzetmek"
+  },
+  {
+    "keyText": "mixture",
+    "valueText": "karışım"
+  },
+  {
+    "keyText": "precise",
+    "valueText": "kesin"
+  },
+  {
+    "keyText": "acquire",
+    "valueText": "edinmek"
+  },
+  {
+    "keyText": "obey",
+    "valueText": "itaat etmek"
+  },
+  {
+    "keyText": "budget",
+    "valueText": "bütçe"
+  },
+  {
+    "keyText": "lung",
+    "valueText": "akciğer"
+  },
+  {
+    "keyText": "extreme",
+    "valueText": "aşırı"
+  },
+  {
+    "keyText": "gradual",
+    "valueText": "kademeli"
+  },
+  {
+    "keyText": "crucial",
+    "valueText": "çok önemli"
+  },
+  {
+    "keyText": "tough",
+    "valueText": "çetin"
+  },
+  {
+    "keyText": "conscious",
+    "valueText": "bilinçli"
+  },
+  {
+    "keyText": "praise",
+    "valueText": "övmek"
+  },
+  {
+    "keyText": "belong",
+    "valueText": "ait olmak"
+  },
+  {
+    "keyText": "global",
+    "valueText": "küresel"
+  },
+  {
+    "keyText": "extent",
+    "valueText": "boyut"
+  },
+  {
+    "keyText": "definite",
+    "valueText": "belli"
+  },
+  {
+    "keyText": "trace",
+    "valueText": "iz"
+  },
+  {
+    "keyText": "burst",
+    "valueText": "patlamak"
+  },
+  {
+    "keyText": "cope",
+    "valueText": "başa çıkmak"
+  },
+  {
+    "keyText": "balance",
+    "valueText": "denge"
+  },
+  {
+    "keyText": "faith",
+    "valueText": "inanç"
+  },
+  {
+    "keyText": "extension",
+    "valueText": "uzatma"
+  },
+  {
+    "keyText": "facility",
+    "valueText": "tesis"
+  },
+  {
+    "keyText": "county",
+    "valueText": "ilçe"
+  },
+  {
+    "keyText": "immoral",
+    "valueText": "ahlaka aykırı"
+  },
+  {
+    "keyText": "entitle",
+    "valueText": "hak kazandırmak"
+  },
+  {
+    "keyText": "rear",
+    "valueText": "arka"
+  },
+  {
+    "keyText": "conflict",
+    "valueText": "anlaşmazlık"
+  },
+  {
+    "keyText": "characteristic",
+    "valueText": "özellik"
+  },
+  {
+    "keyText": "military",
+    "valueText": "askeri"
+  },
+  {
+    "keyText": "delight",
+    "valueText": "sevinç"
+  },
+  {
+    "keyText": "substitute",
+    "valueText": "yerine geçmek"
+  },
+  {
+    "keyText": "ridiculous",
+    "valueText": "gülünç"
+  },
+  {
+    "keyText": "pace",
+    "valueText": "hız"
+  },
+  {
+    "keyText": "reject",
+    "valueText": "reddetmek"
+  },
+  {
+    "keyText": "accuse",
+    "valueText": "suçlamak"
+  },
+  {
+    "keyText": "secure",
+    "valueText": "güvende"
+  },
+  {
+    "keyText": "threat",
+    "valueText": "tehdit"
+  },
+  {
+    "keyText": "encounter",
+    "valueText": "karşılaşmak"
+  },
+  {
+    "keyText": "whisper",
+    "valueText": "fısıldamak"
+  },
+  {
+    "keyText": "disapprove",
+    "valueText": "uygun görmemek"
+  },
+  {
+    "keyText": "basis",
+    "valueText": "temel"
+  },
+  {
+    "keyText": "punishment",
+    "valueText": "ceza"
+  },
+  {
+    "keyText": "amaze",
+    "valueText": "şaşırtmak"
+  },
+  {
+    "keyText": "crown",
+    "valueText": "taç"
+  },
+  {
+    "keyText": "etc",
+    "valueText": "ve benzeri"
+  },
+  {
+    "keyText": "multiply",
+    "valueText": "çarpmak"
+  },
+  {
+    "keyText": "polish",
+    "valueText": "parlatmak"
+  },
+  {
+    "keyText": "tool",
+    "valueText": "alet"
+  },
+  {
+    "keyText": "abstract",
+    "valueText": "soyut"
+  },
+  {
+    "keyText": "ancestor",
+    "valueText": "ata"
+  },
+  {
+    "keyText": "bare",
+    "valueText": "çıplak"
+  },
+  {
+    "keyText": "commercial",
+    "valueText": "ticari"
+  },
+  {
+    "keyText": "donate",
+    "valueText": "bağışlamak"
+  },
+  {
+    "keyText": "earthquake",
+    "valueText": "deprem"
+  },
+  {
+    "keyText": "flexible",
+    "valueText": "esnek"
+  },
+  {
+    "keyText": "legend",
+    "valueText": "efsane"
+  },
+  {
+    "keyText": "poisonous",
+    "valueText": "zehirli"
+  },
+  {
+    "keyText": "tray",
+    "valueText": "tepsi"
+  },
+  {
+    "keyText": "vanish",
+    "valueText": "yok olmak"
+  },
+  {
+    "keyText": "worm",
+    "valueText": "solucan"
+  },
+  {
+    "keyText": "suicide",
+    "valueText": "intihar"
+  },
+  {
+    "keyText": "vinegar",
+    "valueText": "sirke"
+  },
+  {
+    "keyText": "prejudice",
+    "valueText": "önyargı"
+  },
+  {
+    "keyText": "yell",
+    "valueText": "bağırmak"
+  }
+]

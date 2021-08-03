@@ -1,0 +1,4002 @@
+[
+  {
+    "keyText": "well",
+    "valueText": "iyi"
+  },
+  {
+    "keyText": "teacher",
+    "valueText": "öğretmen"
+  },
+  {
+    "keyText": "wall",
+    "valueText": "duvar"
+  },
+  {
+    "keyText": "safe",
+    "valueText": "güvenli"
+  },
+  {
+    "keyText": "answer",
+    "valueText": "cevap"
+  },
+  {
+    "keyText": "each",
+    "valueText": "her"
+  },
+  {
+    "keyText": "fish",
+    "valueText": "balık"
+  },
+  {
+    "keyText": "thing",
+    "valueText": "şey"
+  },
+  {
+    "keyText": "dress",
+    "valueText": "elbise"
+  },
+  {
+    "keyText": "look",
+    "valueText": "bakmak"
+  },
+  {
+    "keyText": "again",
+    "valueText": "tekrar"
+  },
+  {
+    "keyText": "woman",
+    "valueText": "kadın"
+  },
+  {
+    "keyText": "bus",
+    "valueText": "otobüs"
+  },
+  {
+    "keyText": "nationality",
+    "valueText": "milliyet"
+  },
+  {
+    "keyText": "pay",
+    "valueText": "ödemek"
+  },
+  {
+    "keyText": "quarter",
+    "valueText": "çeyrek"
+  },
+  {
+    "keyText": "ask",
+    "valueText": "sor"
+  },
+  {
+    "keyText": "tall",
+    "valueText": "uzun boylu"
+  },
+  {
+    "keyText": "tree",
+    "valueText": "ağaç"
+  },
+  {
+    "keyText": "say",
+    "valueText": "söylemek"
+  },
+  {
+    "keyText": "sheep",
+    "valueText": "koyun"
+  },
+  {
+    "keyText": "home",
+    "valueText": "ev"
+  },
+  {
+    "keyText": "near",
+    "valueText": "yakın"
+  },
+  {
+    "keyText": "cat",
+    "valueText": "kedi"
+  },
+  {
+    "keyText": "until",
+    "valueText": "-e kadar"
+  },
+  {
+    "keyText": "only",
+    "valueText": "bir tek"
+  },
+  {
+    "keyText": "course",
+    "valueText": "ders"
+  },
+  {
+    "keyText": "choose",
+    "valueText": "seçmek"
+  },
+  {
+    "keyText": "help",
+    "valueText": "yardım etmek"
+  },
+  {
+    "keyText": "boat",
+    "valueText": "tekne"
+  },
+  {
+    "keyText": "every",
+    "valueText": "her"
+  },
+  {
+    "keyText": "cow",
+    "valueText": "inek"
+  },
+  {
+    "keyText": "plant",
+    "valueText": "bitki"
+  },
+  {
+    "keyText": "little",
+    "valueText": "küçük"
+  },
+  {
+    "keyText": "school",
+    "valueText": "okul"
+  },
+  {
+    "keyText": "happy",
+    "valueText": "mutlu"
+  },
+  {
+    "keyText": "part",
+    "valueText": "bölüm"
+  },
+  {
+    "keyText": "written",
+    "valueText": "yazılı"
+  },
+  {
+    "keyText": "noise",
+    "valueText": "gürültü"
+  },
+  {
+    "keyText": "job",
+    "valueText": "iş"
+  },
+  {
+    "keyText": "small",
+    "valueText": "küçük"
+  },
+  {
+    "keyText": "board",
+    "valueText": "yazı tahtası"
+  },
+  {
+    "keyText": "study",
+    "valueText": "ders çalışmak"
+  },
+  {
+    "keyText": "dark",
+    "valueText": "karanlık"
+  },
+  {
+    "keyText": "question",
+    "valueText": "soru"
+  },
+  {
+    "keyText": "left",
+    "valueText": "sol"
+  },
+  {
+    "keyText": "sleep",
+    "valueText": "uyumak"
+  },
+  {
+    "keyText": "cross",
+    "valueText": "çapraz"
+  },
+  {
+    "keyText": "driver",
+    "valueText": "şöför"
+  },
+  {
+    "keyText": "tell",
+    "valueText": "anlatmak"
+  },
+  {
+    "keyText": "place",
+    "valueText": "yer"
+  },
+  {
+    "keyText": "week",
+    "valueText": "hafta"
+  },
+  {
+    "keyText": "pet",
+    "valueText": "evcil hayvan"
+  },
+  {
+    "keyText": "quick",
+    "valueText": "hızlı"
+  },
+  {
+    "keyText": "invite",
+    "valueText": "davet etmek"
+  },
+  {
+    "keyText": "afternoon",
+    "valueText": "öğleden sonra"
+  },
+  {
+    "keyText": "word",
+    "valueText": "kelime"
+  },
+  {
+    "keyText": "but",
+    "valueText": "fakat"
+  },
+  {
+    "keyText": "sun",
+    "valueText": "güneş"
+  },
+  {
+    "keyText": "bath",
+    "valueText": "banyo"
+  },
+  {
+    "keyText": "who",
+    "valueText": "kim"
+  },
+  {
+    "keyText": "ride",
+    "valueText": "sürmek"
+  },
+  {
+    "keyText": "cup",
+    "valueText": "fincan"
+  },
+  {
+    "keyText": "movie",
+    "valueText": "film"
+  },
+  {
+    "keyText": "bed",
+    "valueText": "yatak"
+  },
+  {
+    "keyText": "get",
+    "valueText": "almak"
+  },
+  {
+    "keyText": "tonight",
+    "valueText": "bu gece"
+  },
+  {
+    "keyText": "lesson",
+    "valueText": "ders"
+  },
+  {
+    "keyText": "change",
+    "valueText": "değiştirmek"
+  },
+  {
+    "keyText": "breakfast",
+    "valueText": "kahvaltı"
+  },
+  {
+    "keyText": "life",
+    "valueText": "hayat"
+  },
+  {
+    "keyText": "dictionary",
+    "valueText": "sözlük"
+  },
+  {
+    "keyText": "something",
+    "valueText": "bir şey"
+  },
+  {
+    "keyText": "pig",
+    "valueText": "domuz"
+  },
+  {
+    "keyText": "shop",
+    "valueText": "dükkan"
+  },
+  {
+    "keyText": "vegetable",
+    "valueText": "sebze"
+  },
+  {
+    "keyText": "hot",
+    "valueText": "sıcak"
+  },
+  {
+    "keyText": "sentence",
+    "valueText": "cümle"
+  },
+  {
+    "keyText": "make",
+    "valueText": "yapmak"
+  },
+  {
+    "keyText": "into",
+    "valueText": "içine"
+  },
+  {
+    "keyText": "feel",
+    "valueText": "hissetmek"
+  },
+  {
+    "keyText": "beard",
+    "valueText": "sakal"
+  },
+  {
+    "keyText": "fruit",
+    "valueText": "meyve"
+  },
+  {
+    "keyText": "exciting",
+    "valueText": "heyecan verici"
+  },
+  {
+    "keyText": "shoe",
+    "valueText": "ayakkabı"
+  },
+  {
+    "keyText": "kind",
+    "valueText": "tür"
+  },
+  {
+    "keyText": "tomorrow",
+    "valueText": "yarın"
+  },
+  {
+    "keyText": "language",
+    "valueText": "dil"
+  },
+  {
+    "keyText": "museum",
+    "valueText": "müze"
+  },
+  {
+    "keyText": "interesting",
+    "valueText": "ilginç"
+  },
+  {
+    "keyText": "there",
+    "valueText": "orada"
+  },
+  {
+    "keyText": "kitchen",
+    "valueText": "mutfak"
+  },
+  {
+    "keyText": "colour",
+    "valueText": "renk"
+  },
+  {
+    "keyText": "yes",
+    "valueText": "evet"
+  },
+  {
+    "keyText": "closed",
+    "valueText": "kapalı"
+  },
+  {
+    "keyText": "good",
+    "valueText": "iyi"
+  },
+  {
+    "keyText": "sit",
+    "valueText": "oturmak"
+  },
+  {
+    "keyText": "stay",
+    "valueText": "kalmak"
+  },
+  {
+    "keyText": "or",
+    "valueText": "veya"
+  },
+  {
+    "keyText": "very",
+    "valueText": "çok"
+  },
+  {
+    "keyText": "meeting",
+    "valueText": "toplantı"
+  },
+  {
+    "keyText": "homework",
+    "valueText": "ev ödevi"
+  },
+  {
+    "keyText": "page",
+    "valueText": "sayfa"
+  },
+  {
+    "keyText": "worry",
+    "valueText": "endişelenmek"
+  },
+  {
+    "keyText": "university",
+    "valueText": "üniversite"
+  },
+  {
+    "keyText": "sea",
+    "valueText": "deniz"
+  },
+  {
+    "keyText": "drunk",
+    "valueText": "sarhoş"
+  },
+  {
+    "keyText": "meal",
+    "valueText": "yemek"
+  },
+  {
+    "keyText": "hour",
+    "valueText": "saat"
+  },
+  {
+    "keyText": "friend",
+    "valueText": "arkadaş"
+  },
+  {
+    "keyText": "eat",
+    "valueText": "yemek"
+  },
+  {
+    "keyText": "hand",
+    "valueText": "el"
+  },
+  {
+    "keyText": "worrying",
+    "valueText": "endişe verici"
+  },
+  {
+    "keyText": "smoke",
+    "valueText": "duman"
+  },
+  {
+    "keyText": "shirt",
+    "valueText": "gömlek"
+  },
+  {
+    "keyText": "sing",
+    "valueText": "şarkı söylemek"
+  },
+  {
+    "keyText": "window",
+    "valueText": "pencere"
+  },
+  {
+    "keyText": "cook",
+    "valueText": "pişirmek"
+  },
+  {
+    "keyText": "catch",
+    "valueText": "yakalamak"
+  },
+  {
+    "keyText": "listen",
+    "valueText": "dinlemek"
+  },
+  {
+    "keyText": "learn",
+    "valueText": "öğrenmek"
+  },
+  {
+    "keyText": "spoken",
+    "valueText": "sözlü"
+  },
+  {
+    "keyText": "conversation",
+    "valueText": "karşılıklı konuşma"
+  },
+  {
+    "keyText": "holiday",
+    "valueText": "tatil"
+  },
+  {
+    "keyText": "day",
+    "valueText": "gün"
+  },
+  {
+    "keyText": "remember",
+    "valueText": "hatırlamak"
+  },
+  {
+    "keyText": "with",
+    "valueText": "ile"
+  },
+  {
+    "keyText": "rain",
+    "valueText": "yağmur"
+  },
+  {
+    "keyText": "mouth",
+    "valueText": "ağız"
+  },
+  {
+    "keyText": "sorry",
+    "valueText": "üzgünüm"
+  },
+  {
+    "keyText": "begin",
+    "valueText": "başlamak"
+  },
+  {
+    "keyText": "love",
+    "valueText": "aşk"
+  },
+  {
+    "keyText": "car",
+    "valueText": "araba"
+  },
+  {
+    "keyText": "class",
+    "valueText": "sınıf"
+  },
+  {
+    "keyText": "be",
+    "valueText": "olmak"
+  },
+  {
+    "keyText": "computer",
+    "valueText": "bilgisayar"
+  },
+  {
+    "keyText": "different",
+    "valueText": "farklı"
+  },
+  {
+    "keyText": "fine",
+    "valueText": "iyi"
+  },
+  {
+    "keyText": "fun",
+    "valueText": "eğlence"
+  },
+  {
+    "keyText": "cheap",
+    "valueText": "ucuz"
+  },
+  {
+    "keyText": "tea",
+    "valueText": "çay"
+  },
+  {
+    "keyText": "give",
+    "valueText": "vermek"
+  },
+  {
+    "keyText": "hungry",
+    "valueText": "aç"
+  },
+  {
+    "keyText": "when",
+    "valueText": "ne zaman"
+  },
+  {
+    "keyText": "time",
+    "valueText": "zaman"
+  },
+  {
+    "keyText": "up",
+    "valueText": "yukarı"
+  },
+  {
+    "keyText": "child",
+    "valueText": "çocuk"
+  },
+  {
+    "keyText": "know",
+    "valueText": "bilmek"
+  },
+  {
+    "keyText": "dog",
+    "valueText": "köpek"
+  },
+  {
+    "keyText": "ball",
+    "valueText": "top"
+  },
+  {
+    "keyText": "toilet",
+    "valueText": "tuvalet"
+  },
+  {
+    "keyText": "door",
+    "valueText": "kapı"
+  },
+  {
+    "keyText": "farm",
+    "valueText": "çiftlik"
+  },
+  {
+    "keyText": "fast",
+    "valueText": "hızlı"
+  },
+  {
+    "keyText": "carry",
+    "valueText": "taşımak"
+  },
+  {
+    "keyText": "warm",
+    "valueText": "ılık"
+  },
+  {
+    "keyText": "girl",
+    "valueText": "kız"
+  },
+  {
+    "keyText": "buy",
+    "valueText": "satın almak"
+  },
+  {
+    "keyText": "about",
+    "valueText": "hakkında"
+  },
+  {
+    "keyText": "soup",
+    "valueText": "çorba"
+  },
+  {
+    "keyText": "take",
+    "valueText": "almak"
+  },
+  {
+    "keyText": "flat",
+    "valueText": "daire"
+  },
+  {
+    "keyText": "never",
+    "valueText": "asla"
+  },
+  {
+    "keyText": "do",
+    "valueText": "yapmak"
+  },
+  {
+    "keyText": "come",
+    "valueText": "gelmek"
+  },
+  {
+    "keyText": "light",
+    "valueText": "ışık"
+  },
+  {
+    "keyText": "nice",
+    "valueText": "güzel, hoş"
+  },
+  {
+    "keyText": "bread",
+    "valueText": "ekmek"
+  },
+  {
+    "keyText": "use",
+    "valueText": "kullanmak"
+  },
+  {
+    "keyText": "apple",
+    "valueText": "elma"
+  },
+  {
+    "keyText": "found",
+    "valueText": "kurmak"
+  },
+  {
+    "keyText": "open",
+    "valueText": "açık"
+  },
+  {
+    "keyText": "old",
+    "valueText": "yaşlı"
+  },
+  {
+    "keyText": "player",
+    "valueText": "oyuncu"
+  },
+  {
+    "keyText": "poor",
+    "valueText": "fakir"
+  },
+  {
+    "keyText": "cheese",
+    "valueText": "peynir"
+  },
+  {
+    "keyText": "really",
+    "valueText": "gerçekten"
+  },
+  {
+    "keyText": "game",
+    "valueText": "oyun"
+  },
+  {
+    "keyText": "station",
+    "valueText": "istasyon"
+  },
+  {
+    "keyText": "see",
+    "valueText": "görmek"
+  },
+  {
+    "keyText": "start",
+    "valueText": "başlamak"
+  },
+  {
+    "keyText": "town",
+    "valueText": "kasaba"
+  },
+  {
+    "keyText": "often",
+    "valueText": "sıklıkla"
+  },
+  {
+    "keyText": "today",
+    "valueText": "bugün"
+  },
+  {
+    "keyText": "wait",
+    "valueText": "beklemek"
+  },
+  {
+    "keyText": "jacket",
+    "valueText": "ceket"
+  },
+  {
+    "keyText": "back",
+    "valueText": "arka"
+  },
+  {
+    "keyText": "subject",
+    "valueText": "konu"
+  },
+  {
+    "keyText": "some",
+    "valueText": "biraz"
+  },
+  {
+    "keyText": "bottom",
+    "valueText": "alt"
+  },
+  {
+    "keyText": "beach",
+    "valueText": "plaj"
+  },
+  {
+    "keyText": "ready",
+    "valueText": "hazır"
+  },
+  {
+    "keyText": "book",
+    "valueText": "kitap"
+  },
+  {
+    "keyText": "go",
+    "valueText": "gitmek"
+  },
+  {
+    "keyText": "wake",
+    "valueText": "uyanmak"
+  },
+  {
+    "keyText": "morning",
+    "valueText": "sabah"
+  },
+  {
+    "keyText": "goodbye",
+    "valueText": "güle güle"
+  },
+  {
+    "keyText": "bad",
+    "valueText": "kötü"
+  },
+  {
+    "keyText": "better",
+    "valueText": "daha iyi"
+  },
+  {
+    "keyText": "sister",
+    "valueText": "kız kardeş"
+  },
+  {
+    "keyText": "bag",
+    "valueText": "çanta"
+  },
+  {
+    "keyText": "find",
+    "valueText": "bulmak"
+  },
+  {
+    "keyText": "glasses",
+    "valueText": "gözlük"
+  },
+  {
+    "keyText": "difficult",
+    "valueText": "zor"
+  },
+  {
+    "keyText": "short",
+    "valueText": "kısa"
+  },
+  {
+    "keyText": "ear",
+    "valueText": "kulak"
+  },
+  {
+    "keyText": "street",
+    "valueText": "sokak"
+  },
+  {
+    "keyText": "juice",
+    "valueText": "meyve suyu"
+  },
+  {
+    "keyText": "show",
+    "valueText": "göstermek"
+  },
+  {
+    "keyText": "present",
+    "valueText": "hediye"
+  },
+  {
+    "keyText": "same",
+    "valueText": "aynı"
+  },
+  {
+    "keyText": "next",
+    "valueText": "bir sonraki"
+  },
+  {
+    "keyText": "river",
+    "valueText": "nehir"
+  },
+  {
+    "keyText": "minute",
+    "valueText": "dakika"
+  },
+  {
+    "keyText": "tired",
+    "valueText": "yorgun"
+  },
+  {
+    "keyText": "half",
+    "valueText": "yarım"
+  },
+  {
+    "keyText": "many",
+    "valueText": "çok"
+  },
+  {
+    "keyText": "clever",
+    "valueText": "akıllı"
+  },
+  {
+    "keyText": "village",
+    "valueText": "köy"
+  },
+  {
+    "keyText": "thanks",
+    "valueText": "teşekkürler"
+  },
+  {
+    "keyText": "phone",
+    "valueText": "telefon"
+  },
+  {
+    "keyText": "wrong",
+    "valueText": "yanlış"
+  },
+  {
+    "keyText": "enjoy",
+    "valueText": "tadını çıkarmak"
+  },
+  {
+    "keyText": "young",
+    "valueText": "genç"
+  },
+  {
+    "keyText": "cake",
+    "valueText": "pasta"
+  },
+  {
+    "keyText": "body",
+    "valueText": "vücut"
+  },
+  {
+    "keyText": "sugar",
+    "valueText": "şeker"
+  },
+  {
+    "keyText": "work",
+    "valueText": "iş"
+  },
+  {
+    "keyText": "coat",
+    "valueText": "ceket"
+  },
+  {
+    "keyText": "paper",
+    "valueText": "kağıt"
+  },
+  {
+    "keyText": "great",
+    "valueText": "harika"
+  },
+  {
+    "keyText": "reading",
+    "valueText": "okuma"
+  },
+  {
+    "keyText": "hi",
+    "valueText": "selam"
+  },
+  {
+    "keyText": "inside",
+    "valueText": "içerisinde"
+  },
+  {
+    "keyText": "draw",
+    "valueText": "çizmek"
+  },
+  {
+    "keyText": "last",
+    "valueText": "son"
+  },
+  {
+    "keyText": "talk",
+    "valueText": "konuşmak"
+  },
+  {
+    "keyText": "worried",
+    "valueText": "endişeli"
+  },
+  {
+    "keyText": "run",
+    "valueText": "koşmak"
+  },
+  {
+    "keyText": "drive",
+    "valueText": "sürmek"
+  },
+  {
+    "keyText": "table",
+    "valueText": "masa"
+  },
+  {
+    "keyText": "clock",
+    "valueText": "saat"
+  },
+  {
+    "keyText": "brother",
+    "valueText": "erkek kardeş"
+  },
+  {
+    "keyText": "travel",
+    "valueText": "seyahat etmek"
+  },
+  {
+    "keyText": "dear",
+    "valueText": "sevgili"
+  },
+  {
+    "keyText": "potato",
+    "valueText": "patates"
+  },
+  {
+    "keyText": "snow",
+    "valueText": "kar"
+  },
+  {
+    "keyText": "feeling",
+    "valueText": "his"
+  },
+  {
+    "keyText": "salt",
+    "valueText": "tuz"
+  },
+  {
+    "keyText": "both",
+    "valueText": "her ikisi de"
+  },
+  {
+    "keyText": "funny",
+    "valueText": "komik"
+  },
+  {
+    "keyText": "evening",
+    "valueText": "akşam"
+  },
+  {
+    "keyText": "flower",
+    "valueText": "çiçek"
+  },
+  {
+    "keyText": "expensive",
+    "valueText": "pahalı"
+  },
+  {
+    "keyText": "more",
+    "valueText": "daha"
+  },
+  {
+    "keyText": "possible",
+    "valueText": "mümkün"
+  },
+  {
+    "keyText": "meat",
+    "valueText": "et"
+  },
+  {
+    "keyText": "hospital",
+    "valueText": "hastane"
+  },
+  {
+    "keyText": "wine",
+    "valueText": "şarap"
+  },
+  {
+    "keyText": "thank you",
+    "valueText": "teşekkür ederim"
+  },
+  {
+    "keyText": "leave",
+    "valueText": "ayrılmak"
+  },
+  {
+    "keyText": "no",
+    "valueText": "hayır"
+  },
+  {
+    "keyText": "swim",
+    "valueText": "yüzmek"
+  },
+  {
+    "keyText": "chocolate",
+    "valueText": "çikolata"
+  },
+  {
+    "keyText": "practise",
+    "valueText": "pratik yapmak"
+  },
+  {
+    "keyText": "picture",
+    "valueText": "resim"
+  },
+  {
+    "keyText": "head",
+    "valueText": "kafa"
+  },
+  {
+    "keyText": "arm",
+    "valueText": "kol"
+  },
+  {
+    "keyText": "people",
+    "valueText": "insanlar"
+  },
+  {
+    "keyText": "visit",
+    "valueText": "ziyaret etmek"
+  },
+  {
+    "keyText": "hard",
+    "valueText": "zor"
+  },
+  {
+    "keyText": "watch",
+    "valueText": "izlemek"
+  },
+  {
+    "keyText": "yesterday",
+    "valueText": "dün"
+  },
+  {
+    "keyText": "water",
+    "valueText": "su"
+  },
+  {
+    "keyText": "outside",
+    "valueText": "dışında"
+  },
+  {
+    "keyText": "easy",
+    "valueText": "kolay"
+  },
+  {
+    "keyText": "horse",
+    "valueText": "at"
+  },
+  {
+    "keyText": "lot",
+    "valueText": "çok"
+  },
+  {
+    "keyText": "need",
+    "valueText": "ihtiyaç duymak"
+  },
+  {
+    "keyText": "desk",
+    "valueText": "sıra"
+  },
+  {
+    "keyText": "end",
+    "valueText": "son"
+  },
+  {
+    "keyText": "favourite",
+    "valueText": "favori"
+  },
+  {
+    "keyText": "country",
+    "valueText": "ülke"
+  },
+  {
+    "keyText": "understand",
+    "valueText": "anlamak"
+  },
+  {
+    "keyText": "important",
+    "valueText": "önemli"
+  },
+  {
+    "keyText": "name",
+    "valueText": "isim"
+  },
+  {
+    "keyText": "famous",
+    "valueText": "ünlü"
+  },
+  {
+    "keyText": "factory",
+    "valueText": "fabrika"
+  },
+  {
+    "keyText": "month",
+    "valueText": "ay"
+  },
+  {
+    "keyText": "leg",
+    "valueText": "bacak"
+  },
+  {
+    "keyText": "pen",
+    "valueText": "kalem"
+  },
+  {
+    "keyText": "die",
+    "valueText": "ölmek"
+  },
+  {
+    "keyText": "speak",
+    "valueText": "konuşmak"
+  },
+  {
+    "keyText": "painting",
+    "valueText": "resim"
+  },
+  {
+    "keyText": "boring",
+    "valueText": "sıkıcı"
+  },
+  {
+    "keyText": "fat",
+    "valueText": "şişman"
+  },
+  {
+    "keyText": "drink",
+    "valueText": "içmek"
+  },
+  {
+    "keyText": "big",
+    "valueText": "büyük"
+  },
+  {
+    "keyText": "walk",
+    "valueText": "yürümek"
+  },
+  {
+    "keyText": "train",
+    "valueText": "tren"
+  },
+  {
+    "keyText": "waiter",
+    "valueText": "garson"
+  },
+  {
+    "keyText": "box",
+    "valueText": "kutu"
+  },
+  {
+    "keyText": "example",
+    "valueText": "örnek"
+  },
+  {
+    "keyText": "milk",
+    "valueText": "süt"
+  },
+  {
+    "keyText": "slim",
+    "valueText": "zayıf"
+  },
+  {
+    "keyText": "play",
+    "valueText": "oynamak"
+  },
+  {
+    "keyText": "trousers",
+    "valueText": "pantolon"
+  },
+  {
+    "keyText": "before",
+    "valueText": "önce"
+  },
+  {
+    "keyText": "sweet",
+    "valueText": "tatlı"
+  },
+  {
+    "keyText": "hat",
+    "valueText": "şapka"
+  },
+  {
+    "keyText": "band",
+    "valueText": "müzik grubu"
+  },
+  {
+    "keyText": "knife",
+    "valueText": "bıçak"
+  },
+  {
+    "keyText": "weather",
+    "valueText": "hava"
+  },
+  {
+    "keyText": "thought",
+    "valueText": "düşünce"
+  },
+  {
+    "keyText": "beer",
+    "valueText": "bira"
+  },
+  {
+    "keyText": "person",
+    "valueText": "kişi"
+  },
+  {
+    "keyText": "all",
+    "valueText": "herşey"
+  },
+  {
+    "keyText": "adult",
+    "valueText": "yetişkin"
+  },
+  {
+    "keyText": "glass",
+    "valueText": "bardak"
+  },
+  {
+    "keyText": "orange",
+    "valueText": "portakal"
+  },
+  {
+    "keyText": "write",
+    "valueText": "yazmak"
+  },
+  {
+    "keyText": "tooth",
+    "valueText": "diş"
+  },
+  {
+    "keyText": "year",
+    "valueText": "yıl"
+  },
+  {
+    "keyText": "brown",
+    "valueText": "kahverengi"
+  },
+  {
+    "keyText": "best",
+    "valueText": "en iyi"
+  },
+  {
+    "keyText": "anything",
+    "valueText": "her şey"
+  },
+  {
+    "keyText": "stop",
+    "valueText": "durmak"
+  },
+  {
+    "keyText": "long",
+    "valueText": "uzun"
+  },
+  {
+    "keyText": "ticket",
+    "valueText": "bilet"
+  },
+  {
+    "keyText": "letter",
+    "valueText": "mektup"
+  },
+  {
+    "keyText": "cold",
+    "valueText": "soğuk"
+  },
+  {
+    "keyText": "have",
+    "valueText": "sahip olmak"
+  },
+  {
+    "keyText": "pencil",
+    "valueText": "kurşun kalem"
+  },
+  {
+    "keyText": "because",
+    "valueText": "çünkü"
+  },
+  {
+    "keyText": "plate",
+    "valueText": "tabak"
+  },
+  {
+    "keyText": "student",
+    "valueText": "öğrenci"
+  },
+  {
+    "keyText": "biscuit",
+    "valueText": "bisküvi"
+  },
+  {
+    "keyText": "wash",
+    "valueText": "yıkamak"
+  },
+  {
+    "keyText": "soon",
+    "valueText": "yakında"
+  },
+  {
+    "keyText": "note",
+    "valueText": "not"
+  },
+  {
+    "keyText": "newspaper",
+    "valueText": "gazete"
+  },
+  {
+    "keyText": "dinner",
+    "valueText": "akşam yemegi"
+  },
+  {
+    "keyText": "used",
+    "valueText": "kullanılmış"
+  },
+  {
+    "keyText": "now",
+    "valueText": "şimdi"
+  },
+  {
+    "keyText": "butter",
+    "valueText": "tereyağı"
+  },
+  {
+    "keyText": "clean",
+    "valueText": "temiz"
+  },
+  {
+    "keyText": "night",
+    "valueText": "gece"
+  },
+  {
+    "keyText": "money",
+    "valueText": "para"
+  },
+  {
+    "keyText": "much",
+    "valueText": "çok"
+  },
+  {
+    "keyText": "man",
+    "valueText": "adam"
+  },
+  {
+    "keyText": "road",
+    "valueText": "yol"
+  },
+  {
+    "keyText": "city",
+    "valueText": "şehir"
+  },
+  {
+    "keyText": "like",
+    "valueText": "hoşlanmak"
+  },
+  {
+    "keyText": "then",
+    "valueText": "sonra"
+  },
+  {
+    "keyText": "waitress",
+    "valueText": "kadın garson"
+  },
+  {
+    "keyText": "eye",
+    "valueText": "göz"
+  },
+  {
+    "keyText": "think",
+    "valueText": "düşünmek"
+  },
+  {
+    "keyText": "excited",
+    "valueText": "heyecanlı"
+  },
+  {
+    "keyText": "nose",
+    "valueText": "burun"
+  },
+  {
+    "keyText": "for",
+    "valueText": "için"
+  },
+  {
+    "keyText": "why",
+    "valueText": "neden"
+  },
+  {
+    "keyText": "wear",
+    "valueText": "giyinmek"
+  },
+  {
+    "keyText": "hair",
+    "valueText": "saç"
+  },
+  {
+    "keyText": "key",
+    "valueText": "anahtar"
+  },
+  {
+    "keyText": "garden",
+    "valueText": "bahçe"
+  },
+  {
+    "keyText": "clothes",
+    "valueText": "kıyafet"
+  },
+  {
+    "keyText": "skirt",
+    "valueText": "etek"
+  },
+  {
+    "keyText": "first",
+    "valueText": "ilk"
+  },
+  {
+    "keyText": "teach",
+    "valueText": "öğretmek"
+  },
+  {
+    "keyText": "late",
+    "valueText": "geç"
+  },
+  {
+    "keyText": "meet",
+    "valueText": "buluşmak"
+  },
+  {
+    "keyText": "together",
+    "valueText": "birlikte"
+  },
+  {
+    "keyText": "number",
+    "valueText": "numara"
+  },
+  {
+    "keyText": "past",
+    "valueText": "geçmiş"
+  },
+  {
+    "keyText": "not",
+    "valueText": "değil"
+  },
+  {
+    "keyText": "food",
+    "valueText": "yiyecek"
+  },
+  {
+    "keyText": "foot",
+    "valueText": "ayak"
+  },
+  {
+    "keyText": "read",
+    "valueText": "okumak"
+  },
+  {
+    "keyText": "egg",
+    "valueText": "yumurta"
+  },
+  {
+    "keyText": "after",
+    "valueText": "sonra"
+  },
+  {
+    "keyText": "floor",
+    "valueText": "zemin"
+  },
+  {
+    "keyText": "animal",
+    "valueText": "hayvan"
+  },
+  {
+    "keyText": "chair",
+    "valueText": "sandalye"
+  },
+  {
+    "keyText": "sad",
+    "valueText": "üzgün"
+  },
+  {
+    "keyText": "date",
+    "valueText": "tarih"
+  },
+  {
+    "keyText": "parent",
+    "valueText": "ebeveyn"
+  },
+  {
+    "keyText": "house",
+    "valueText": "ev"
+  },
+  {
+    "keyText": "send",
+    "valueText": "göndermek"
+  },
+  {
+    "keyText": "grass",
+    "valueText": "ot"
+  },
+  {
+    "keyText": "world",
+    "valueText": "dünya"
+  },
+  {
+    "keyText": "sometimes",
+    "valueText": "ara sıra"
+  },
+  {
+    "keyText": "rice",
+    "valueText": "pirinç"
+  },
+  {
+    "keyText": "where",
+    "valueText": "nerede"
+  },
+  {
+    "keyText": "right",
+    "valueText": "doğru"
+  },
+  {
+    "keyText": "shopping",
+    "valueText": "alışveriş yapmak"
+  },
+  {
+    "keyText": "later",
+    "valueText": "sonra"
+  },
+  {
+    "keyText": "put",
+    "valueText": "koymak"
+  },
+  {
+    "keyText": "bird",
+    "valueText": "kuş"
+  },
+  {
+    "keyText": "plane",
+    "valueText": "uçak"
+  },
+  {
+    "keyText": "age",
+    "valueText": "yaş"
+  },
+  {
+    "keyText": "smoking",
+    "valueText": "sigara içmek"
+  },
+  {
+    "keyText": "business",
+    "valueText": "iş"
+  },
+  {
+    "keyText": "face",
+    "valueText": "yüz"
+  },
+  {
+    "keyText": "please",
+    "valueText": "lütfen"
+  },
+  {
+    "keyText": "new",
+    "valueText": "yeni"
+  },
+  {
+    "keyText": "other",
+    "valueText": "diğer"
+  },
+  {
+    "keyText": "want",
+    "valueText": "istemek"
+  },
+  {
+    "keyText": "hello",
+    "valueText": "merhaba"
+  },
+  {
+    "keyText": "any",
+    "valueText": "herhangi"
+  },
+  {
+    "keyText": "how",
+    "valueText": "nasıl"
+  },
+  {
+    "keyText": "paint",
+    "valueText": "boya"
+  },
+  {
+    "keyText": "pair",
+    "valueText": "çift"
+  },
+  {
+    "keyText": "early",
+    "valueText": "erken"
+  },
+  {
+    "keyText": "tomato",
+    "valueText": "domates"
+  },
+  {
+    "keyText": "hear",
+    "valueText": "duymak"
+  },
+  {
+    "keyText": "slow",
+    "valueText": "yavaş"
+  },
+  {
+    "keyText": "room",
+    "valueText": "oda"
+  },
+  {
+    "keyText": "writing",
+    "valueText": "yazı"
+  },
+  {
+    "keyText": "boy",
+    "valueText": "erkek çocuğu"
+  },
+  {
+    "keyText": "bored",
+    "valueText": "canı sıkkın"
+  },
+  {
+    "keyText": "which",
+    "valueText": "hangi"
+  },
+  {
+    "keyText": "here",
+    "valueText": "işte, burada"
+  },
+  {
+    "keyText": "shower",
+    "valueText": "duş"
+  },
+  {
+    "keyText": "fly",
+    "valueText": "uçmak"
+  },
+  {
+    "keyText": "second",
+    "valueText": "ikinci"
+  },
+  {
+    "keyText": "beautiful",
+    "valueText": "güzel"
+  },
+  {
+    "keyText": "lunch",
+    "valueText": "öğle yemeği"
+  },
+  {
+    "keyText": "kick",
+    "valueText": "tekmelemek"
+  },
+  {
+    "keyText": "turn",
+    "valueText": "çevirmek"
+  },
+  {
+    "keyText": "round",
+    "valueText": "yuvarlak"
+  },
+  {
+    "keyText": "everything",
+    "valueText": "herşey"
+  },
+  {
+    "keyText": "drum",
+    "valueText": "davul"
+  },
+  {
+    "keyText": "leather",
+    "valueText": "deri"
+  },
+  {
+    "keyText": "hope",
+    "valueText": "umut"
+  },
+  {
+    "keyText": "through",
+    "valueText": "içinden"
+  },
+  {
+    "keyText": "god",
+    "valueText": "tanrı"
+  },
+  {
+    "keyText": "crazy",
+    "valueText": "çılgın"
+  },
+  {
+    "keyText": "danger",
+    "valueText": "tehlike"
+  },
+  {
+    "keyText": "care",
+    "valueText": "önemsemek"
+  },
+  {
+    "keyText": "supper",
+    "valueText": "akşam yemeği"
+  },
+  {
+    "keyText": "shout",
+    "valueText": "bağırmak"
+  },
+  {
+    "keyText": "terrible",
+    "valueText": "korkunç"
+  },
+  {
+    "keyText": "actually",
+    "valueText": "aslında"
+  },
+  {
+    "keyText": "keyboard",
+    "valueText": "klavye"
+  },
+  {
+    "keyText": "shame",
+    "valueText": "utanç"
+  },
+  {
+    "keyText": "line",
+    "valueText": "hat"
+  },
+  {
+    "keyText": "improve",
+    "valueText": "geliştirmek"
+  },
+  {
+    "keyText": "double",
+    "valueText": "çift"
+  },
+  {
+    "keyText": "daily",
+    "valueText": "günlük"
+  },
+  {
+    "keyText": "toy",
+    "valueText": "oyuncak"
+  },
+  {
+    "keyText": "soap",
+    "valueText": "sabun"
+  },
+  {
+    "keyText": "anyone",
+    "valueText": "kimse"
+  },
+  {
+    "keyText": "bill",
+    "valueText": "fatura"
+  },
+  {
+    "keyText": "battery",
+    "valueText": "batarya"
+  },
+  {
+    "keyText": "sweater",
+    "valueText": "kazak"
+  },
+  {
+    "keyText": "correct",
+    "valueText": "doğru"
+  },
+  {
+    "keyText": "ago",
+    "valueText": "önce"
+  },
+  {
+    "keyText": "everywhere",
+    "valueText": "her yerde"
+  },
+  {
+    "keyText": "worst",
+    "valueText": "en kötü"
+  },
+  {
+    "keyText": "pretty",
+    "valueText": "güzel"
+  },
+  {
+    "keyText": "lamp",
+    "valueText": "lamba"
+  },
+  {
+    "keyText": "speaker",
+    "valueText": "konuşmacı"
+  },
+  {
+    "keyText": "case",
+    "valueText": "olay"
+  },
+  {
+    "keyText": "nothing",
+    "valueText": "hiçbir şey"
+  },
+  {
+    "keyText": "share",
+    "valueText": "paylaşmak"
+  },
+  {
+    "keyText": "upset",
+    "valueText": "üzgün"
+  },
+  {
+    "keyText": "called",
+    "valueText": "adlandırılan"
+  },
+  {
+    "keyText": "goal",
+    "valueText": "hedef"
+  },
+  {
+    "keyText": "available",
+    "valueText": "mevcut"
+  },
+  {
+    "keyText": "painter",
+    "valueText": "ressam"
+  },
+  {
+    "keyText": "matter",
+    "valueText": "sorun"
+  },
+  {
+    "keyText": "become",
+    "valueText": "olmak"
+  },
+  {
+    "keyText": "push",
+    "valueText": "itmek"
+  },
+  {
+    "keyText": "top",
+    "valueText": "üst"
+  },
+  {
+    "keyText": "shut",
+    "valueText": "kapamak"
+  },
+  {
+    "keyText": "pleased",
+    "valueText": "memnun"
+  },
+  {
+    "keyText": "team",
+    "valueText": "takım"
+  },
+  {
+    "keyText": "term",
+    "valueText": "dönem"
+  },
+  {
+    "keyText": "polite",
+    "valueText": "kibar"
+  },
+  {
+    "keyText": "cloud",
+    "valueText": "bulut"
+  },
+  {
+    "keyText": "ship",
+    "valueText": "gemi"
+  },
+  {
+    "keyText": "without",
+    "valueText": "olmadan"
+  },
+  {
+    "keyText": "chemist",
+    "valueText": "kimyager"
+  },
+  {
+    "keyText": "since",
+    "valueText": "-den beri"
+  },
+  {
+    "keyText": "exactly",
+    "valueText": "kesinlikle"
+  },
+  {
+    "keyText": "ceiling",
+    "valueText": "tavan"
+  },
+  {
+    "keyText": "chicken",
+    "valueText": "tavuk"
+  },
+  {
+    "keyText": "fall",
+    "valueText": "düşmek"
+  },
+  {
+    "keyText": "dream",
+    "valueText": "rüya"
+  },
+  {
+    "keyText": "busy",
+    "valueText": "meşgul"
+  },
+  {
+    "keyText": "most",
+    "valueText": "en"
+  },
+  {
+    "keyText": "dessert",
+    "valueText": "tatlı"
+  },
+  {
+    "keyText": "receipt",
+    "valueText": "makbuz"
+  },
+  {
+    "keyText": "snake",
+    "valueText": "yılan"
+  },
+  {
+    "keyText": "afterwards",
+    "valueText": "sonradan"
+  },
+  {
+    "keyText": "mix",
+    "valueText": "karıştırmak"
+  },
+  {
+    "keyText": "price",
+    "valueText": "fiyat"
+  },
+  {
+    "keyText": "click",
+    "valueText": "tıklamak"
+  },
+  {
+    "keyText": "till",
+    "valueText": "kadar"
+  },
+  {
+    "keyText": "glove",
+    "valueText": "eldiven"
+  },
+  {
+    "keyText": "cost",
+    "valueText": "maliyet"
+  },
+  {
+    "keyText": "anywhere",
+    "valueText": "herhangi bir yer"
+  },
+  {
+    "keyText": "type",
+    "valueText": "yazmak"
+  },
+  {
+    "keyText": "guest",
+    "valueText": "konuk"
+  },
+  {
+    "keyText": "deep",
+    "valueText": "derin"
+  },
+  {
+    "keyText": "thank",
+    "valueText": "teşekkür"
+  },
+  {
+    "keyText": "international",
+    "valueText": "uluslararası"
+  },
+  {
+    "keyText": "add",
+    "valueText": "eklemek"
+  },
+  {
+    "keyText": "air",
+    "valueText": "hava"
+  },
+  {
+    "keyText": "sick",
+    "valueText": "hasta"
+  },
+  {
+    "keyText": "ever",
+    "valueText": "hiç"
+  },
+  {
+    "keyText": "instrument",
+    "valueText": "enstrüman"
+  },
+  {
+    "keyText": "dry",
+    "valueText": "kurutmak"
+  },
+  {
+    "keyText": "get off",
+    "valueText": "inmek"
+  },
+  {
+    "keyText": "horrible",
+    "valueText": "korkunç"
+  },
+  {
+    "keyText": "several",
+    "valueText": "birkaç"
+  },
+  {
+    "keyText": "however",
+    "valueText": "ancak"
+  },
+  {
+    "keyText": "gate",
+    "valueText": "kapı"
+  },
+  {
+    "keyText": "curtain",
+    "valueText": "perde"
+  },
+  {
+    "keyText": "company",
+    "valueText": "şirket"
+  },
+  {
+    "keyText": "theatre",
+    "valueText": "tiyatro"
+  },
+  {
+    "keyText": "still",
+    "valueText": "hâlâ"
+  },
+  {
+    "keyText": "print",
+    "valueText": "yazdırmak"
+  },
+  {
+    "keyText": "wooden",
+    "valueText": "ahşaptan"
+  },
+  {
+    "keyText": "further",
+    "valueText": "daha ileri"
+  },
+  {
+    "keyText": "accident",
+    "valueText": "kaza"
+  },
+  {
+    "keyText": "chef",
+    "valueText": "şef"
+  },
+  {
+    "keyText": "wool",
+    "valueText": "yün"
+  },
+  {
+    "keyText": "sound",
+    "valueText": "ses"
+  },
+  {
+    "keyText": "magic",
+    "valueText": "büyü"
+  },
+  {
+    "keyText": "another",
+    "valueText": "bir diğeri"
+  },
+  {
+    "keyText": "missing",
+    "valueText": "eksik"
+  },
+  {
+    "keyText": "tyre",
+    "valueText": "lastik"
+  },
+  {
+    "keyText": "happen",
+    "valueText": "olmak"
+  },
+  {
+    "keyText": "sign",
+    "valueText": "işaret"
+  },
+  {
+    "keyText": "island",
+    "valueText": "ada"
+  },
+  {
+    "keyText": "just",
+    "valueText": "az önce"
+  },
+  {
+    "keyText": "foreign",
+    "valueText": "yabancı"
+  },
+  {
+    "keyText": "pray",
+    "valueText": "dua etmek"
+  },
+  {
+    "keyText": "chemistry",
+    "valueText": "kimya"
+  },
+  {
+    "keyText": "carrot",
+    "valueText": "havuç"
+  },
+  {
+    "keyText": "surprised",
+    "valueText": "şaşırmış"
+  },
+  {
+    "keyText": "bear",
+    "valueText": "ayı"
+  },
+  {
+    "keyText": "friendly",
+    "valueText": "arkadaş canlısı"
+  },
+  {
+    "keyText": "dead",
+    "valueText": "ölü"
+  },
+  {
+    "keyText": "oil",
+    "valueText": "sıvı yağ"
+  },
+  {
+    "keyText": "wish",
+    "valueText": "dilemek"
+  },
+  {
+    "keyText": "adventure",
+    "valueText": "macera"
+  },
+  {
+    "keyText": "let",
+    "valueText": "izin vermek"
+  },
+  {
+    "keyText": "forest",
+    "valueText": "orman"
+  },
+  {
+    "keyText": "tune",
+    "valueText": "melodi"
+  },
+  {
+    "keyText": "certainly",
+    "valueText": "kesinlikle"
+  },
+  {
+    "keyText": "mixed",
+    "valueText": "karışık"
+  },
+  {
+    "keyText": "probably",
+    "valueText": "muhtemelen"
+  },
+  {
+    "keyText": "set",
+    "valueText": "ayarlamak"
+  },
+  {
+    "keyText": "out",
+    "valueText": "dışarı"
+  },
+  {
+    "keyText": "mad",
+    "valueText": "deli"
+  },
+  {
+    "keyText": "cover",
+    "valueText": "örtmek"
+  },
+  {
+    "keyText": "mouse",
+    "valueText": "fare"
+  },
+  {
+    "keyText": "simple",
+    "valueText": "basit"
+  },
+  {
+    "keyText": "free",
+    "valueText": "ücretsiz"
+  },
+  {
+    "keyText": "discount",
+    "valueText": "indirim"
+  },
+  {
+    "keyText": "garage",
+    "valueText": "garaj"
+  },
+  {
+    "keyText": "view",
+    "valueText": "görünüm"
+  },
+  {
+    "keyText": "pleasant",
+    "valueText": "hoş"
+  },
+  {
+    "keyText": "lovely",
+    "valueText": "sevimli"
+  },
+  {
+    "keyText": "net",
+    "valueText": "ağ"
+  },
+  {
+    "keyText": "middle",
+    "valueText": "orta"
+  },
+  {
+    "keyText": "describe",
+    "valueText": "tanımlamak"
+  },
+  {
+    "keyText": "carpet",
+    "valueText": "halı"
+  },
+  {
+    "keyText": "special",
+    "valueText": "özel"
+  },
+  {
+    "keyText": "variety",
+    "valueText": "çeşitlilik"
+  },
+  {
+    "keyText": "space",
+    "valueText": "boş yer"
+  },
+  {
+    "keyText": "jump",
+    "valueText": "atlamak"
+  },
+  {
+    "keyText": "high",
+    "valueText": "yüksek"
+  },
+  {
+    "keyText": "gas",
+    "valueText": "gaz"
+  },
+  {
+    "keyText": "cheque",
+    "valueText": "çek"
+  },
+  {
+    "keyText": "desert",
+    "valueText": "çöl"
+  },
+  {
+    "keyText": "pity",
+    "valueText": "yazık"
+  },
+  {
+    "keyText": "seat",
+    "valueText": "koltuk"
+  },
+  {
+    "keyText": "married",
+    "valueText": "evli"
+  },
+  {
+    "keyText": "arrive",
+    "valueText": "varmak"
+  },
+  {
+    "keyText": "advice",
+    "valueText": "tavsiye"
+  },
+  {
+    "keyText": "fail",
+    "valueText": "başarısız olmak"
+  },
+  {
+    "keyText": "silver",
+    "valueText": "gümüş"
+  },
+  {
+    "keyText": "sell",
+    "valueText": "satmak"
+  },
+  {
+    "keyText": "true",
+    "valueText": "doğru"
+  },
+  {
+    "keyText": "blonde",
+    "valueText": "sarışın"
+  },
+  {
+    "keyText": "downstairs",
+    "valueText": "alt kat"
+  },
+  {
+    "keyText": "pocket",
+    "valueText": "cep"
+  },
+  {
+    "keyText": "strong",
+    "valueText": "güçlü"
+  },
+  {
+    "keyText": "call",
+    "valueText": "telefonla aramak"
+  },
+  {
+    "keyText": "include",
+    "valueText": "dahil etmek"
+  },
+  {
+    "keyText": "try",
+    "valueText": "denemek"
+  },
+  {
+    "keyText": "especially",
+    "valueText": "özellikle"
+  },
+  {
+    "keyText": "pack",
+    "valueText": "paketlemek"
+  },
+  {
+    "keyText": "lemon",
+    "valueText": "limon"
+  },
+  {
+    "keyText": "advertisement",
+    "valueText": "reklam"
+  },
+  {
+    "keyText": "square",
+    "valueText": "kare"
+  },
+  {
+    "keyText": "excellent",
+    "valueText": "mükemmel"
+  },
+  {
+    "keyText": "yet",
+    "valueText": "henüz"
+  },
+  {
+    "keyText": "hurt",
+    "valueText": "incitmek"
+  },
+  {
+    "keyText": "belt",
+    "valueText": "kemer"
+  },
+  {
+    "keyText": "kiss",
+    "valueText": "öpücük"
+  },
+  {
+    "keyText": "secretary",
+    "valueText": "sekreter"
+  },
+  {
+    "keyText": "lose",
+    "valueText": "kaybetmek"
+  },
+  {
+    "keyText": "west",
+    "valueText": "batı"
+  },
+  {
+    "keyText": "worse",
+    "valueText": "daha kötü"
+  },
+  {
+    "keyText": "strange",
+    "valueText": "garip"
+  },
+  {
+    "keyText": "latest",
+    "valueText": "en son"
+  },
+  {
+    "keyText": "channel",
+    "valueText": "kanal"
+  },
+  {
+    "keyText": "unusual",
+    "valueText": "olağandışı"
+  },
+  {
+    "keyText": "sheet",
+    "valueText": "yaprak"
+  },
+  {
+    "keyText": "path",
+    "valueText": "yol"
+  },
+  {
+    "keyText": "enough",
+    "valueText": "yeterli"
+  },
+  {
+    "keyText": "least",
+    "valueText": "en az"
+  },
+  {
+    "keyText": "kill",
+    "valueText": "öldürmek"
+  },
+  {
+    "keyText": "envelope",
+    "valueText": "zarf"
+  },
+  {
+    "keyText": "screen",
+    "valueText": "ekran"
+  },
+  {
+    "keyText": "wheel",
+    "valueText": "tekerlek"
+  },
+  {
+    "keyText": "surname",
+    "valueText": "soyad"
+  },
+  {
+    "keyText": "brain",
+    "valueText": "beyin"
+  },
+  {
+    "keyText": "guide",
+    "valueText": "kılavuz"
+  },
+  {
+    "keyText": "piece",
+    "valueText": "parça"
+  },
+  {
+    "keyText": "rest",
+    "valueText": "dinlenmek"
+  },
+  {
+    "keyText": "cry",
+    "valueText": "ağlamak"
+  },
+  {
+    "keyText": "instead",
+    "valueText": "yerine"
+  },
+  {
+    "keyText": "hurry",
+    "valueText": "acele etmek"
+  },
+  {
+    "keyText": "various",
+    "valueText": "çeşitli"
+  },
+  {
+    "keyText": "ice",
+    "valueText": "buz"
+  },
+  {
+    "keyText": "nurse",
+    "valueText": "hemşire"
+  },
+  {
+    "keyText": "congratulations",
+    "valueText": "tebrikler"
+  },
+  {
+    "keyText": "stage",
+    "valueText": "sahne"
+  },
+  {
+    "keyText": "competition",
+    "valueText": "rekabet"
+  },
+  {
+    "keyText": "pool",
+    "valueText": "havuz"
+  },
+  {
+    "keyText": "midday",
+    "valueText": "gün ortası"
+  },
+  {
+    "keyText": "pull",
+    "valueText": "çekmek"
+  },
+  {
+    "keyText": "glad",
+    "valueText": "memnun"
+  },
+  {
+    "keyText": "heating",
+    "valueText": "ısıtma"
+  },
+  {
+    "keyText": "awesome",
+    "valueText": "harika"
+  },
+  {
+    "keyText": "keep",
+    "valueText": "tutmak"
+  },
+  {
+    "keyText": "attractive",
+    "valueText": "çekici"
+  },
+  {
+    "keyText": "broken",
+    "valueText": "kırık"
+  },
+  {
+    "keyText": "believe",
+    "valueText": "inanmak"
+  },
+  {
+    "keyText": "drawer",
+    "valueText": "çekmece"
+  },
+  {
+    "keyText": "wild",
+    "valueText": "vahşi"
+  },
+  {
+    "keyText": "point",
+    "valueText": "nokta"
+  },
+  {
+    "keyText": "slowly",
+    "valueText": "yavaşça"
+  },
+  {
+    "keyText": "mistake",
+    "valueText": "hata"
+  },
+  {
+    "keyText": "lazy",
+    "valueText": "tembel"
+  },
+  {
+    "keyText": "lucky",
+    "valueText": "şanslı"
+  },
+  {
+    "keyText": "brilliant",
+    "valueText": "muhteşem"
+  },
+  {
+    "keyText": "countryside",
+    "valueText": "kırsal bölge"
+  },
+  {
+    "keyText": "spell",
+    "valueText": "hecelemek"
+  },
+  {
+    "keyText": "hall",
+    "valueText": "salon"
+  },
+  {
+    "keyText": "fill",
+    "valueText": "doldurmak"
+  },
+  {
+    "keyText": "wide",
+    "valueText": "geniş"
+  },
+  {
+    "keyText": "idea",
+    "valueText": "fikir"
+  },
+  {
+    "keyText": "web",
+    "valueText": "ağ"
+  },
+  {
+    "keyText": "fit",
+    "valueText": "sığmak"
+  },
+  {
+    "keyText": "everyone",
+    "valueText": "herkes"
+  },
+  {
+    "keyText": "apartment",
+    "valueText": "daire"
+  },
+  {
+    "keyText": "collect",
+    "valueText": "toplamak"
+  },
+  {
+    "keyText": "if",
+    "valueText": "eğer"
+  },
+  {
+    "keyText": "follow",
+    "valueText": "takip etmek"
+  },
+  {
+    "keyText": "stranger",
+    "valueText": "yabancı"
+  },
+  {
+    "keyText": "vocabulary",
+    "valueText": "kelime dağarcığı"
+  },
+  {
+    "keyText": "hit",
+    "valueText": "vurmak"
+  },
+  {
+    "keyText": "licence",
+    "valueText": "lisans"
+  },
+  {
+    "keyText": "airport",
+    "valueText": "havalimanı"
+  },
+  {
+    "keyText": "luggage",
+    "valueText": "bagaj"
+  },
+  {
+    "keyText": "hill",
+    "valueText": "tepe"
+  },
+  {
+    "keyText": "colleague",
+    "valueText": "iş arkadaşı"
+  },
+  {
+    "keyText": "mountain",
+    "valueText": "dağ"
+  },
+  {
+    "keyText": "prepared",
+    "valueText": "hazırlanmış"
+  },
+  {
+    "keyText": "comfortable",
+    "valueText": "rahat"
+  },
+  {
+    "keyText": "surprise",
+    "valueText": "sürpriz"
+  },
+  {
+    "keyText": "way",
+    "valueText": "yol"
+  },
+  {
+    "keyText": "nature",
+    "valueText": "doğa"
+  },
+  {
+    "keyText": "king",
+    "valueText": "kral"
+  },
+  {
+    "keyText": "ring",
+    "valueText": "yüzük"
+  },
+  {
+    "keyText": "boss",
+    "valueText": "patron"
+  },
+  {
+    "keyText": "useful",
+    "valueText": "işe yarar"
+  },
+  {
+    "keyText": "list",
+    "valueText": "liste"
+  },
+  {
+    "keyText": "complete",
+    "valueText": "tamamlamak"
+  },
+  {
+    "keyText": "quite",
+    "valueText": "oldukça"
+  },
+  {
+    "keyText": "interested",
+    "valueText": "ilgili"
+  },
+  {
+    "keyText": "mean",
+    "valueText": "anlamına gelmek"
+  },
+  {
+    "keyText": "low",
+    "valueText": "düşük"
+  },
+  {
+    "keyText": "bridge",
+    "valueText": "köprü"
+  },
+  {
+    "keyText": "passport",
+    "valueText": "pasaport"
+  },
+  {
+    "keyText": "sock",
+    "valueText": "çorap"
+  },
+  {
+    "keyText": "dirty",
+    "valueText": "kirli"
+  },
+  {
+    "keyText": "map",
+    "valueText": "harita"
+  },
+  {
+    "keyText": "cut",
+    "valueText": "kesmek"
+  },
+  {
+    "keyText": "scissors",
+    "valueText": "makas"
+  },
+  {
+    "keyText": "blood",
+    "valueText": "kan"
+  },
+  {
+    "keyText": "saving",
+    "valueText": "tasarruf"
+  },
+  {
+    "keyText": "perfume",
+    "valueText": "parfüm"
+  },
+  {
+    "keyText": "salad",
+    "valueText": "salata"
+  },
+  {
+    "keyText": "lake",
+    "valueText": "göl"
+  },
+  {
+    "keyText": "purse",
+    "valueText": "cüzdan"
+  },
+  {
+    "keyText": "market",
+    "valueText": "pazar"
+  },
+  {
+    "keyText": "umbrella",
+    "valueText": "şemsiye"
+  },
+  {
+    "keyText": "circle",
+    "valueText": "daire"
+  },
+  {
+    "keyText": "unfortunately",
+    "valueText": "ne yazık ki"
+  },
+  {
+    "keyText": "blanket",
+    "valueText": "battaniye"
+  },
+  {
+    "keyText": "ill",
+    "valueText": "hasta"
+  },
+  {
+    "keyText": "steal",
+    "valueText": "çalmak"
+  },
+  {
+    "keyText": "single",
+    "valueText": "bekar"
+  },
+  {
+    "keyText": "healthy",
+    "valueText": "sağlıklı"
+  },
+  {
+    "keyText": "shelf",
+    "valueText": "raf"
+  },
+  {
+    "keyText": "delay",
+    "valueText": "gecikme"
+  },
+  {
+    "keyText": "copy",
+    "valueText": "kopya"
+  },
+  {
+    "keyText": "anyway",
+    "valueText": "her neyse"
+  },
+  {
+    "keyText": "clear",
+    "valueText": "açık"
+  },
+  {
+    "keyText": "against",
+    "valueText": "karşı"
+  },
+  {
+    "keyText": "member",
+    "valueText": "üye"
+  },
+  {
+    "keyText": "pepper",
+    "valueText": "biber"
+  },
+  {
+    "keyText": "explain",
+    "valueText": "açıklamak"
+  },
+  {
+    "keyText": "north",
+    "valueText": "kuzey"
+  },
+  {
+    "keyText": "detail",
+    "valueText": "ayrıntı"
+  },
+  {
+    "keyText": "journey",
+    "valueText": "seyahat"
+  },
+  {
+    "keyText": "toe",
+    "valueText": "ayak parmağı"
+  },
+  {
+    "keyText": "cash",
+    "valueText": "nakit"
+  },
+  {
+    "keyText": "invitation",
+    "valueText": "davetiye"
+  },
+  {
+    "keyText": "afraid",
+    "valueText": "korkmuş"
+  },
+  {
+    "keyText": "straight",
+    "valueText": "düz"
+  },
+  {
+    "keyText": "fire",
+    "valueText": "ateş"
+  },
+  {
+    "keyText": "singer",
+    "valueText": "şarkıcı"
+  },
+  {
+    "keyText": "get on",
+    "valueText": "binmek"
+  },
+  {
+    "keyText": "medicine",
+    "valueText": "ilaç"
+  },
+  {
+    "keyText": "pale",
+    "valueText": "soluk"
+  },
+  {
+    "keyText": "bicycle",
+    "valueText": "bisiklet"
+  },
+  {
+    "keyText": "stamp",
+    "valueText": "kaşe, pul"
+  },
+  {
+    "keyText": "lift",
+    "valueText": "asansör"
+  },
+  {
+    "keyText": "cap",
+    "valueText": "kapak"
+  },
+  {
+    "keyText": "sure",
+    "valueText": "elbette"
+  },
+  {
+    "keyText": "including",
+    "valueText": "dahil olmak üzere"
+  },
+  {
+    "keyText": "moon",
+    "valueText": "ay"
+  },
+  {
+    "keyText": "such",
+    "valueText": "böyle"
+  },
+  {
+    "keyText": "real",
+    "valueText": "gerçek"
+  },
+  {
+    "keyText": "somebody",
+    "valueText": "birisi"
+  },
+  {
+    "keyText": "fan",
+    "valueText": "hayran"
+  },
+  {
+    "keyText": "repeat",
+    "valueText": "tekrar etmek"
+  },
+  {
+    "keyText": "jam",
+    "valueText": "reçel"
+  },
+  {
+    "keyText": "anymore",
+    "valueText": "artık"
+  },
+  {
+    "keyText": "practice",
+    "valueText": "uygulama"
+  },
+  {
+    "keyText": "tie",
+    "valueText": "kravat"
+  },
+  {
+    "keyText": "win",
+    "valueText": "kazanmak"
+  },
+  {
+    "keyText": "cartoon",
+    "valueText": "çizgi film"
+  },
+  {
+    "keyText": "centre",
+    "valueText": "merkez"
+  },
+  {
+    "keyText": "visitor",
+    "valueText": "ziyaretçi"
+  },
+  {
+    "keyText": "capital",
+    "valueText": "başkent"
+  },
+  {
+    "keyText": "so",
+    "valueText": "bu yüzden"
+  },
+  {
+    "keyText": "diary",
+    "valueText": "günlük"
+  },
+  {
+    "keyText": "notice",
+    "valueText": "fark etmek"
+  },
+  {
+    "keyText": "far",
+    "valueText": "uzak"
+  },
+  {
+    "keyText": "stand",
+    "valueText": "ayakta durmak"
+  },
+  {
+    "keyText": "heavy",
+    "valueText": "ağır"
+  },
+  {
+    "keyText": "underground",
+    "valueText": "yeraltı"
+  },
+  {
+    "keyText": "suit",
+    "valueText": "takım elbise"
+  },
+  {
+    "keyText": "chain",
+    "valueText": "zincir"
+  },
+  {
+    "keyText": "rent",
+    "valueText": "kiralamak"
+  },
+  {
+    "keyText": "pointed",
+    "valueText": "sivri"
+  },
+  {
+    "keyText": "own",
+    "valueText": "kendi"
+  },
+  {
+    "keyText": "few",
+    "valueText": "az"
+  },
+  {
+    "keyText": "spoon",
+    "valueText": "kaşık"
+  },
+  {
+    "keyText": "sky",
+    "valueText": "gökyüzü"
+  },
+  {
+    "keyText": "onion",
+    "valueText": "soğan"
+  },
+  {
+    "keyText": "mirror",
+    "valueText": "ayna"
+  },
+  {
+    "keyText": "empty",
+    "valueText": "boş"
+  },
+  {
+    "keyText": "thin",
+    "valueText": "ince"
+  },
+  {
+    "keyText": "worker",
+    "valueText": "işçi"
+  },
+  {
+    "keyText": "wood",
+    "valueText": "ahşap"
+  },
+  {
+    "keyText": "art",
+    "valueText": "sanat"
+  },
+  {
+    "keyText": "except",
+    "valueText": "hariç"
+  },
+  {
+    "keyText": "building",
+    "valueText": "bina"
+  },
+  {
+    "keyText": "appointment",
+    "valueText": "randevu"
+  },
+  {
+    "keyText": "pass",
+    "valueText": "geçmek"
+  },
+  {
+    "keyText": "luck",
+    "valueText": "şans"
+  },
+  {
+    "keyText": "lay",
+    "valueText": "uzanmak"
+  },
+  {
+    "keyText": "century",
+    "valueText": "yüzyıl"
+  },
+  {
+    "keyText": "contact",
+    "valueText": "temas"
+  },
+  {
+    "keyText": "church",
+    "valueText": "kilise"
+  },
+  {
+    "keyText": "alone",
+    "valueText": "yalnız"
+  },
+  {
+    "keyText": "finally",
+    "valueText": "en sonunda"
+  },
+  {
+    "keyText": "history",
+    "valueText": "tarih"
+  },
+  {
+    "keyText": "degree",
+    "valueText": "derece"
+  },
+  {
+    "keyText": "whole",
+    "valueText": "bütün"
+  },
+  {
+    "keyText": "receive",
+    "valueText": "teslim almak"
+  },
+  {
+    "keyText": "geography",
+    "valueText": "coğrafya"
+  },
+  {
+    "keyText": "side",
+    "valueText": "yan"
+  },
+  {
+    "keyText": "fog",
+    "valueText": "sis"
+  },
+  {
+    "keyText": "away",
+    "valueText": "uzakta"
+  },
+  {
+    "keyText": "hate",
+    "valueText": "nefret etmek"
+  },
+  {
+    "keyText": "order",
+    "valueText": "sipariş vermek"
+  },
+  {
+    "keyText": "runner",
+    "valueText": "koşucu"
+  },
+  {
+    "keyText": "department",
+    "valueText": "bölüm"
+  },
+  {
+    "keyText": "return",
+    "valueText": "geri dönmek"
+  },
+  {
+    "keyText": "sink",
+    "valueText": "lavabo"
+  },
+  {
+    "keyText": "match",
+    "valueText": "eşleştirmek"
+  },
+  {
+    "keyText": "badly",
+    "valueText": "kötü bir şekilde"
+  },
+  {
+    "keyText": "usually",
+    "valueText": "genellikle"
+  },
+  {
+    "keyText": "national",
+    "valueText": "ulusal"
+  },
+  {
+    "keyText": "memory",
+    "valueText": "hafıza"
+  },
+  {
+    "keyText": "somewhere",
+    "valueText": "bir yer"
+  },
+  {
+    "keyText": "easily",
+    "valueText": "kolayca"
+  },
+  {
+    "keyText": "repair",
+    "valueText": "tamir etmek"
+  },
+  {
+    "keyText": "news",
+    "valueText": "haber"
+  },
+  {
+    "keyText": "wet",
+    "valueText": "ıslak"
+  },
+  {
+    "keyText": "concert",
+    "valueText": "konser"
+  },
+  {
+    "keyText": "timetable",
+    "valueText": "program"
+  },
+  {
+    "keyText": "else",
+    "valueText": "başka"
+  },
+  {
+    "keyText": "large",
+    "valueText": "büyük"
+  },
+  {
+    "keyText": "front",
+    "valueText": "ön"
+  },
+  {
+    "keyText": "serve",
+    "valueText": "servis etmek"
+  },
+  {
+    "keyText": "text",
+    "valueText": "metin"
+  },
+  {
+    "keyText": "hold",
+    "valueText": "tutmak"
+  },
+  {
+    "keyText": "decide",
+    "valueText": "karar vermek"
+  },
+  {
+    "keyText": "south",
+    "valueText": "güney"
+  },
+  {
+    "keyText": "careful",
+    "valueText": "dikkatli"
+  },
+  {
+    "keyText": "level",
+    "valueText": "seviye"
+  },
+  {
+    "keyText": "bring",
+    "valueText": "getirmek"
+  },
+  {
+    "keyText": "nearly",
+    "valueText": "neredeyse"
+  },
+  {
+    "keyText": "fridge",
+    "valueText": "buzdolabı"
+  },
+  {
+    "keyText": "advanced",
+    "valueText": "ileri düzey"
+  },
+  {
+    "keyText": "cooker",
+    "valueText": "ocak"
+  },
+  {
+    "keyText": "cream",
+    "valueText": "krem"
+  },
+  {
+    "keyText": "opposite",
+    "valueText": "zıt"
+  },
+  {
+    "keyText": "fashion",
+    "valueText": "moda"
+  },
+  {
+    "keyText": "library",
+    "valueText": "kütüphane"
+  },
+  {
+    "keyText": "physics",
+    "valueText": "fizik"
+  },
+  {
+    "keyText": "electricity",
+    "valueText": "elektrik"
+  },
+  {
+    "keyText": "laugh",
+    "valueText": "gülmek"
+  },
+  {
+    "keyText": "spend",
+    "valueText": "harcamak"
+  },
+  {
+    "keyText": "song",
+    "valueText": "şarkı"
+  },
+  {
+    "keyText": "towel",
+    "valueText": "havlu"
+  },
+  {
+    "keyText": "bowl",
+    "valueText": "kase"
+  },
+  {
+    "keyText": "field",
+    "valueText": "alan"
+  },
+  {
+    "keyText": "story",
+    "valueText": "öykü"
+  },
+  {
+    "keyText": "sort",
+    "valueText": "tür"
+  },
+  {
+    "keyText": "form",
+    "valueText": "şekil vermek"
+  },
+  {
+    "keyText": "castle",
+    "valueText": "kale"
+  },
+  {
+    "keyText": "reason",
+    "valueText": "sebep"
+  },
+  {
+    "keyText": "jewellery",
+    "valueText": "mücevher"
+  },
+  {
+    "keyText": "prefer",
+    "valueText": "tercih etmek"
+  },
+  {
+    "keyText": "loud",
+    "valueText": "yüksek sesle"
+  },
+  {
+    "keyText": "queen",
+    "valueText": "kraliçe"
+  },
+  {
+    "keyText": "pick",
+    "valueText": "toplamak"
+  },
+  {
+    "keyText": "lend",
+    "valueText": "ödünç vermek"
+  },
+  {
+    "keyText": "storm",
+    "valueText": "fırtına"
+  },
+  {
+    "keyText": "forget",
+    "valueText": "unutmak"
+  },
+  {
+    "keyText": "join",
+    "valueText": "katılmak"
+  },
+  {
+    "keyText": "prize",
+    "valueText": "ödül"
+  },
+  {
+    "keyText": "take care",
+    "valueText": "kendine iyi bak"
+  },
+  {
+    "keyText": "cupboard",
+    "valueText": "dolap"
+  },
+  {
+    "keyText": "document",
+    "valueText": "belge"
+  },
+  {
+    "keyText": "soul",
+    "valueText": "ruh"
+  },
+  {
+    "keyText": "sauce",
+    "valueText": "sos"
+  },
+  {
+    "keyText": "nobody",
+    "valueText": "hiçkimse"
+  },
+  {
+    "keyText": "offer",
+    "valueText": "teklif etmek"
+  },
+  {
+    "keyText": "engine",
+    "valueText": "motor"
+  },
+  {
+    "keyText": "winner",
+    "valueText": "kazanan"
+  },
+  {
+    "keyText": "around",
+    "valueText": "etrafında"
+  },
+  {
+    "keyText": "quiet",
+    "valueText": "sessiz"
+  },
+  {
+    "keyText": "size",
+    "valueText": "boyut"
+  },
+  {
+    "keyText": "war",
+    "valueText": "savaş"
+  },
+  {
+    "keyText": "health",
+    "valueText": "sağlık"
+  },
+  {
+    "keyText": "occupation",
+    "valueText": "meslek"
+  },
+  {
+    "keyText": "fair",
+    "valueText": "açık renk"
+  },
+  {
+    "keyText": "indoor",
+    "valueText": "kapalı alan"
+  },
+  {
+    "keyText": "fork",
+    "valueText": "çatal"
+  },
+  {
+    "keyText": "mind",
+    "valueText": "zihin"
+  },
+  {
+    "keyText": "climb",
+    "valueText": "tırmanmak"
+  },
+  {
+    "keyText": "boot",
+    "valueText": "çizme"
+  },
+  {
+    "keyText": "wonderful",
+    "valueText": "harika"
+  },
+  {
+    "keyText": "discuss",
+    "valueText": "tartışmak"
+  },
+  {
+    "keyText": "passenger",
+    "valueText": "yolcu"
+  },
+  {
+    "keyText": "finger",
+    "valueText": "parmak"
+  },
+  {
+    "keyText": "crowded",
+    "valueText": "kalabalık"
+  },
+  {
+    "keyText": "information",
+    "valueText": "bilgi"
+  },
+  {
+    "keyText": "even",
+    "valueText": "bile"
+  },
+  {
+    "keyText": "upstairs",
+    "valueText": "üst kat"
+  },
+  {
+    "keyText": "once",
+    "valueText": "bir kez"
+  },
+  {
+    "keyText": "farmer",
+    "valueText": "çiftçi"
+  },
+  {
+    "keyText": "artist",
+    "valueText": "sanatçı"
+  },
+  {
+    "keyText": "quickly",
+    "valueText": "hızlı bir şekilde"
+  },
+  {
+    "keyText": "maybe",
+    "valueText": "belki"
+  },
+  {
+    "keyText": "almost",
+    "valueText": "neredeyse"
+  },
+  {
+    "keyText": "agree",
+    "valueText": "aynı fikirde olmak"
+  },
+  {
+    "keyText": "engineer",
+    "valueText": "mühendis"
+  },
+  {
+    "keyText": "furniture",
+    "valueText": "mobilya"
+  },
+  {
+    "keyText": "post",
+    "valueText": "posta"
+  },
+  {
+    "keyText": "wallet",
+    "valueText": "cüzdan"
+  },
+  {
+    "keyText": "software",
+    "valueText": "yazılım"
+  },
+  {
+    "keyText": "fishing",
+    "valueText": "balık tutma"
+  },
+  {
+    "keyText": "brush",
+    "valueText": "fırça"
+  },
+  {
+    "keyText": "immediately",
+    "valueText": "hemen"
+  },
+  {
+    "keyText": "manager",
+    "valueText": "müdür"
+  },
+  {
+    "keyText": "break",
+    "valueText": "kırmak"
+  },
+  {
+    "keyText": "throw",
+    "valueText": "fırlatmak"
+  },
+  {
+    "keyText": "cycling",
+    "valueText": "bisiklete binmek"
+  },
+  {
+    "keyText": "machine",
+    "valueText": "makine"
+  },
+  {
+    "keyText": "mark",
+    "valueText": "okul notu"
+  },
+  {
+    "keyText": "pillow",
+    "valueText": "yastık"
+  },
+  {
+    "keyText": "neck",
+    "valueText": "boyun"
+  },
+  {
+    "keyText": "check",
+    "valueText": "kontrol etmek"
+  },
+  {
+    "keyText": "mushroom",
+    "valueText": "mantar"
+  },
+  {
+    "keyText": "fresh",
+    "valueText": "taze"
+  },
+  {
+    "keyText": "race",
+    "valueText": "yarış"
+  },
+  {
+    "keyText": "lost",
+    "valueText": "kayıp"
+  },
+  {
+    "keyText": "record",
+    "valueText": "kayıt etmek"
+  },
+  {
+    "keyText": "insect",
+    "valueText": "böcek"
+  },
+  {
+    "keyText": "project",
+    "valueText": "proje"
+  },
+  {
+    "keyText": "bit",
+    "valueText": "parça"
+  },
+  {
+    "keyText": "science",
+    "valueText": "bilim"
+  },
+  {
+    "keyText": "tram",
+    "valueText": "tramvay"
+  },
+  {
+    "keyText": "uncle",
+    "valueText": "amca"
+  },
+  {
+    "keyText": "grow",
+    "valueText": "büyümek"
+  },
+  {
+    "keyText": "twice",
+    "valueText": "iki kez"
+  },
+  {
+    "keyText": "stomach",
+    "valueText": "mide"
+  },
+  {
+    "keyText": "amazing",
+    "valueText": "inanılmaz"
+  },
+  {
+    "keyText": "usual",
+    "valueText": "olağan"
+  },
+  {
+    "keyText": "build",
+    "valueText": "inşa etmek"
+  },
+  {
+    "keyText": "plus",
+    "valueText": "artı"
+  },
+  {
+    "keyText": "area",
+    "valueText": "alan"
+  },
+  {
+    "keyText": "future",
+    "valueText": "gelecek"
+  },
+  {
+    "keyText": "weekly",
+    "valueText": "haftalık"
+  },
+  {
+    "keyText": "fact",
+    "valueText": "gerçek"
+  },
+  {
+    "keyText": "lie",
+    "valueText": "yalan söylemek"
+  },
+  {
+    "keyText": "rich",
+    "valueText": "zengin"
+  },
+  {
+    "keyText": "bake",
+    "valueText": "fırında pişirmek"
+  },
+  {
+    "keyText": "exam",
+    "valueText": "sınav"
+  },
+  {
+    "keyText": "bean",
+    "valueText": "fasulye"
+  },
+  {
+    "keyText": "heart",
+    "valueText": "kalp"
+  },
+  {
+    "keyText": "borrow",
+    "valueText": "ödünç almak"
+  },
+  {
+    "keyText": "cereal",
+    "valueText": "tahıl"
+  },
+  {
+    "keyText": "less",
+    "valueText": "daha az"
+  },
+  {
+    "keyText": "crisp",
+    "valueText": "gevrek"
+  },
+  {
+    "keyText": "entrance",
+    "valueText": "giriş"
+  },
+  {
+    "keyText": "to be born",
+    "valueText": "doğmak"
+  },
+  {
+    "keyText": "staff",
+    "valueText": "personel"
+  },
+  {
+    "keyText": "railway",
+    "valueText": "demiryolu"
+  },
+  {
+    "keyText": "perfect",
+    "valueText": "mükemmel"
+  },
+  {
+    "keyText": "tour",
+    "valueText": "tur"
+  },
+  {
+    "keyText": "save",
+    "valueText": "para biriktirmek"
+  },
+  {
+    "keyText": "gold",
+    "valueText": "altın"
+  },
+  {
+    "keyText": "dentist",
+    "valueText": "diş doktoru"
+  },
+  {
+    "keyText": "magazine",
+    "valueText": "dergi"
+  },
+  {
+    "keyText": "customer",
+    "valueText": "müşteri"
+  },
+  {
+    "keyText": "dangerous",
+    "valueText": "tehlikeli"
+  },
+  {
+    "keyText": "spare",
+    "valueText": "yedek"
+  },
+  {
+    "keyText": "bottle",
+    "valueText": "şişe"
+  },
+  {
+    "keyText": "trip",
+    "valueText": "seyahat"
+  },
+  {
+    "keyText": "corner",
+    "valueText": "köşe"
+  },
+  {
+    "keyText": "sale",
+    "valueText": "satış"
+  },
+  {
+    "keyText": "soft",
+    "valueText": "yumuşak"
+  },
+  {
+    "keyText": "boil",
+    "valueText": "kaynamak"
+  },
+  {
+    "keyText": "earn",
+    "valueText": "kazanmak"
+  },
+  {
+    "keyText": "midnight",
+    "valueText": "gece yarısı"
+  },
+  {
+    "keyText": "bother",
+    "valueText": "rahatsız etmek"
+  },
+  {
+    "keyText": "rubber",
+    "valueText": "silgi"
+  },
+  {
+    "keyText": "coach",
+    "valueText": "otobüs"
+  },
+  {
+    "keyText": "noisy",
+    "valueText": "gürültülü"
+  },
+  {
+    "keyText": "guess",
+    "valueText": "tahmin etmek"
+  },
+  {
+    "keyText": "move",
+    "valueText": "hareket ettirmek"
+  },
+  {
+    "keyText": "slice",
+    "valueText": "dilim"
+  },
+  {
+    "keyText": "while",
+    "valueText": "-iken"
+  },
+  {
+    "keyText": "prepare",
+    "valueText": "hazırlamak"
+  },
+  {
+    "keyText": "thirsty",
+    "valueText": "susamış"
+  },
+  {
+    "keyText": "welcome",
+    "valueText": "hoşgeldiniz"
+  },
+  {
+    "keyText": "instruction",
+    "valueText": "talimat"
+  },
+  {
+    "keyText": "perhaps",
+    "valueText": "belki"
+  },
+  {
+    "keyText": "recording",
+    "valueText": "kayıt"
+  },
+  {
+    "keyText": "flight",
+    "valueText": "uçuş"
+  },
+  {
+    "keyText": "file",
+    "valueText": "dosya"
+  },
+  {
+    "keyText": "suitcase",
+    "valueText": "bavul"
+  },
+  {
+    "keyText": "east",
+    "valueText": "doğu"
+  },
+  {
+    "keyText": "meaning",
+    "valueText": "anlam"
+  },
+  {
+    "keyText": "bright",
+    "valueText": "parlak"
+  },
+  {
+    "keyText": "tidy",
+    "valueText": "düzenli"
+  },
+  {
+    "keyText": "moment",
+    "valueText": "an"
+  },
+  {
+    "keyText": "angry",
+    "valueText": "öfkeli"
+  },
+  {
+    "keyText": "headache",
+    "valueText": "baş ağrısı"
+  },
+  {
+    "keyText": "unhappy",
+    "valueText": "mutsuz"
+  },
+  {
+    "keyText": "roast",
+    "valueText": "kızartmak"
+  },
+  {
+    "keyText": "neighbour",
+    "valueText": "komşu"
+  },
+  {
+    "keyText": "pupil",
+    "valueText": "öğrenci"
+  },
+  {
+    "keyText": "difference",
+    "valueText": "fark"
+  },
+  {
+    "keyText": "pain",
+    "valueText": "ağrı"
+  },
+  {
+    "keyText": "necklace",
+    "valueText": "kolye"
+  },
+  {
+    "keyText": "ruler",
+    "valueText": "cetvel"
+  },
+  {
+    "keyText": "gift",
+    "valueText": "hediye"
+  },
+  {
+    "keyText": "amount",
+    "valueText": "miktar"
+  },
+  {
+    "keyText": "cancel",
+    "valueText": "iptal etmek"
+  },
+  {
+    "keyText": "inform",
+    "valueText": "bilgilendirmek"
+  },
+  {
+    "keyText": "weekend",
+    "valueText": "hafta sonu"
+  },
+  {
+    "keyText": "what",
+    "valueText": "ne"
+  },
+  {
+    "keyText": "temperature",
+    "valueText": "sıcaklık"
+  }
+]
