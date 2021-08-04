@@ -1,7 +1,8 @@
 [
   {
     "keyText": "blow up",
-    "valueText": "patlamak"
+    "valueText": "patlamak",
+    "start": false
   },
   {
     "keyText": "break down",

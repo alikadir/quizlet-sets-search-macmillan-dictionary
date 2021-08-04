@@ -1,4 +1,8 @@
-import { readRawJson, writeTransformedJson } from './jsonFileService.js';
+import {
+  readRawJson,
+  readTransformedJson,
+  writeTransformedJson,
+} from './jsonFileService.js';
 import { getWordInfo } from './macmillanService.js';
 
 export async function fillInfo(file) {
@@ -9,4 +13,9 @@ export async function fillInfo(file) {
     console.count(file);
   }
   writeTransformedJson(file, wordList);
+}
+
+export async function detectEmptyInfo(file) {
+  const wordList = readTransformedJson(file);
+  return wordList.filter(item => item.keyText.includes('\n\n.\n\n'));
 }
