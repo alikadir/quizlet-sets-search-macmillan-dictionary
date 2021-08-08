@@ -6,14 +6,14 @@ export async function getWordInfo(word) {
   const html = await getHtmlFromMacmillan(word);
   const dom = new JSDOM(html);
   try {
-    info.wordExampleSentence = dom.window.document.querySelector(
-      '.SENSE-CONTENT .EXAMPLES.first'
-    ).textContent;
     info.wordDescription = dom.window.document.querySelector(
       '.SENSE-CONTENT .DEFINITION'
     ).textContent;
+    info.wordExampleSentence = dom.window.document.querySelector(
+      '.SENSE-CONTENT .EXAMPLES.first'
+    ).textContent;
   } catch (err) {
-    console.error(`Problem occurred at "${word}".`);
+    console.error(`Problem occurred at "${word}". ${JSON.stringify(info)}`);
   }
   return info;
 }
